@@ -1,0 +1,316 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+ 
+<html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="application/xhtml+xml;charset=UTF-8" />
+        <title>IPLRecordsUpdateBot</title>
+        <link rel="stylesheet" href="css_js/IPLRecordsUpdateBot_UI.css" type="text/css" charset="UTF-8" media="all" />
+        <script type="application/javascript" src="css_js/IPLRecordsUpdateBot_UI.js" charset="UTF-8" defer="defer"></script>
+    </head>
+    <body>
+        <h1>IPLRecordsUpdateBot</h1>
+ 
+        <!-- This will display if the backup file exists -->
+        <table class="messagebox" id="lasteditfailed" style="display: none">
+            <tr>
+                <td style="width: 60px">
+                    <img src="Images/Ambox_warning_pn.svg" style="width: 60px" />
+                </td>
+                <td>
+                    <b>Your last edit attempt was unsuccessful</b><br />
+                    <br />
+                    A copy of the wikitext that was to be sent to the server has been stored locally. To edit using the text from the local file, click Resume.
+                    <input id="resumebutton" type="button" value="Resume"/>
+                </td>
+            </tr>
+        </table>
+ 
+        <table class="messagebox" id="status" style="border-color: #70AAF5; background-color: #A9CCFF">
+            <tr>
+                <td style="width: 30px">
+                    <img class="statusicon" src="Images/Circle-information.svg" style="width: 30px" />
+                </td>
+                <td>Please check the stats you want to update.</td>
+            </tr>
+        </table>
+ 
+ 
+        <table id="optionstable">
+            <tr>
+                <th scope="col" colspan="2">Team records</th>
+            </tr>
+            <tr id="stats__TEAM_HIGHEST_TOTALS">
+                <td>
+                    <input type="checkbox" name="TEAM_HIGHEST_TOTALS" />
+                    <label for="TEAM_HIGHEST_TOTALS">Highest totals</label>
+                </td>
+                <td>
+                </td>
+            </tr>
+            <tr id="stats__TEAM_LOWEST_TOTALS">
+                <td>
+                    <input type="checkbox" name="TEAM_LOWEST_TOTALS" />
+                    <label for="TEAM_LOWEST_TOTALS">Lowest totals</label>
+                </td>
+                <td>
+                </td>
+            </tr>
+            <tr id="stats__TEAM_HIGHEST_MATCH_AGGREGATES">
+                <td>
+                    <input type="checkbox" name="TEAM_HIGHEST_MATCH_AGGREGATES" />
+                    <label for="TEAM_HIGHEST_MATCH_AGGREGATES">Highest match aggregates</label>
+                </td>
+                <td>
+                </td>
+            </tr>
+            <tr id="stats__TEAM_LOWEST_MATCH_AGGREGATES">
+                <td>
+                    <input type="checkbox" name="TEAM_LOWEST_MATCH_AGGREGATES" />
+                    <label for="TEAM_LOWEST_MATCH_AGGREGATES">Lowest match aggregates</label>
+                </td>
+                <td>
+                </td>
+            </tr>
+            <tr id="stats__TEAM_LARGEST_VICTORIES">
+                <td>
+                    <input type="checkbox" name="TEAM_LARGEST_VICTORIES" />
+                    <label for="TEAM_LARGEST_VICTORIES">Largest victories</label>
+                </td>
+                <td>
+                </td>
+            </tr>
+            <tr id="stats__TEAM_SMALLEST_VICTORIES">
+                <td>
+                    <input type="checkbox" name="TEAM_SMALLEST_VICTORIES" />
+                    <label for="TEAM_SMALLEST_VICTORIES">Smallest victories</label>
+                </td>
+                <td>
+                </td>
+            </tr>
+            <tr>
+                <th scope="col" colspan="2">Batting records</th>
+            </tr>
+            <tr id="stats__BATTING_MOST_RUNS">
+                <td>
+                    <input type="checkbox" name="BATTING_MOST_RUNS" />
+                    <label for="BATTING_MOST_RUNS">Most runs</label>
+                </td>
+                <td>
+                </td>
+            </tr>
+            <tr id="stats__BATTING_BEST_STRIKE_RATE">
+                <td>
+                    <input type="checkbox" name="BATTING_BEST_STRIKE_RATE" />
+                    <label for="BATTING_BEST_STRIKE_RATE">Best strike rate</label>
+                </td>
+                <td>
+                </td>
+            </tr>
+            <tr id="stats__BATTING_BEST_AVERAGE">
+                <td>
+                    <input type="checkbox" name="BATTING_BEST_AVERAGE" />
+                    <label for="BATTING_BEST_AVERAGE">Best average</label>
+                </td>
+                <td>
+                </td>
+            </tr>
+            <tr id="stats__BATTING_HIGHEST_SCORE">
+                <td>
+                    <input type="checkbox" name="BATTING_HIGHEST_SCORE" />
+                    <label for="BATTING_HIGHEST_SCORE">Highest score</label>
+                </td>
+                <td>
+                </td>
+            </tr>
+            <tr id="stats__BATTING_MOST_RUNS_SERIES">
+                <td>
+                    <input type="checkbox" name="BATTING_MOST_RUNS_SERIES" />
+                    <label for="BATTING_MOST_RUNS_SERIES">Most runs in a series</label>
+                </td>
+                <td>
+                </td>
+            </tr>
+            <tr id="stats__BATTING_MOST_SIXES">
+                <td>
+                    <input type="checkbox" name="BATTING_MOST_SIXES" />
+                    <label for="BATTING_MOST_SIXES">Most sixes</label>
+                </td>
+                <td>
+                </td>
+            </tr>
+            <tr id="stats__BATTING_MOST_RUNS_BOUNDARIES_INNINGS">
+                <td>
+                    <input type="checkbox" name="BATTING_MOST_RUNS_BOUNDARIES_INNINGS" />
+                    <label for="BATTING_MOST_RUNS_BOUNDARIES_INNINGS">Most runs from boundaries in an innings</label>
+                </td>
+                <td>
+                </td>
+            </tr>
+            <tr>
+                <th scope="col" colspan="2">Bowling records</th>
+            </tr>
+            <tr id="stats__BOWLING_MOST_WICKETS">
+                <td>
+                    <input type="checkbox" name="BOWLING_MOST_WICKETS" />
+                    <label for="BOWLING_MOST_WICKETS">Most wickets</label>
+                </td>
+                <td>
+                </td>
+            </tr>
+            <tr id="stats__BOWLING_BEST_STRIKE_RATE">
+                <td>
+                    <input type="checkbox" name="BOWLING_BEST_STRIKE_RATE" />
+                    <label for="BOWLING_BEST_STRIKE_RATE">Best strike rate</label>
+                </td>
+                <td>
+                </td>
+            </tr>
+            <tr id="stats__BOWLING_BEST_AVERAGE">
+                <td>
+                    <input type="checkbox" name="BOWLING_BEST_AVERAGE" />
+                    <label for="BOWLING_BEST_AVERAGE">Best average</label>
+                </td>
+                <td>
+                </td>
+            </tr>
+            <tr id="stats__BOWLING_BEST_ECONOMY_RATE">
+                <td>
+                    <input type="checkbox" name="BOWLING_BEST_ECONOMY_RATE" />
+                    <label for="BOWLING_BEST_ECONOMY_RATE">Best economy rate</label>
+                </td>
+                <td>
+                </td>
+            </tr>
+            <tr id="stats__BOWLING_BEST_FIGURES_INNINGS">
+                <td>
+                    <input type="checkbox" name="BOWLING_BEST_FIGURES_INNINGS" />
+                    <label for="BOWLING_BEST_FIGURES_INNINGS">Best bowling figures in an innings</label>
+                </td>
+                <td>
+                </td>
+            </tr>
+            <tr id="stats__BOWLING_MOST_RUNS_INNINGS">
+                <td>
+                    <input type="checkbox" name="BOWLING_MOST_RUNS_INNINGS" />
+                    <label for="BOWLING_MOST_RUNS_INNINGS">Most runs conceded in an innings</label>
+                </td>
+                <td>
+                </td>
+            </tr>
+            <tr id="stats__BOWLING_MOST_WICKETS_SERIES">
+                <td>
+                    <input type="checkbox" name="BOWLING_MOST_WICKETS_SERIES" />
+                    <label for="BOWLING_MOST_WICKETS_SERIES">Most wickets in a series</label>
+                </td>
+                <td>
+                </td>
+            </tr>
+            <tr>
+                <th colspan="2">Wicketkeeping and fielding records</th>
+            </tr>
+            <tr id="stats__FIELDING_MOST_DISMISSALS_KEEPER">
+                <td>
+                    <input type="checkbox" name="FIELDING_MOST_DISMISSALS_KEEPER" />
+                    <label for="FIELDING_MOST_DISMISSALS_KEEPER">Most dismissals (wicketkeeper)</label>
+                </td>
+                <td>
+                </td>
+            </tr>
+            <tr id="stats__FIELDING_MOST_CATCHES_NON_KEEPER">
+                <td>
+                    <input type="checkbox" name="FIELDING_MOST_CATCHES_NON_KEEPER" />
+                    <label for="FIELDING_MOST_CATCHES_NON_KEEPER">Most catches (non-keeper)</label>
+                </td>
+                <td>
+                </td>
+            </tr>
+            <tr id="stats__FIELDING_MOST_DISMISSALS_INNINGS_KEEPER">
+                <td>
+                    <input type="checkbox" name="FIELDING_MOST_DISMISSALS_INNINGS_KEEPER" />
+                    <label for="FIELDING_MOST_DISMISSALS_INNINGS_KEEPER">Most dismissals in an innings (wicketkeeper)</label>
+                </td>
+                <td>
+                </td>
+            </tr>
+            <tr id="stats__FIELDING_MOST_CATCHES_INNINGS_NON_KEEPER">
+                <td>
+                    <input type="checkbox" name="FIELDING_MOST_CATCHES_INNINGS_NON_KEEPER" />
+                    <label for="FIELDING_MOST_CATCHES_INNINGS_NON_KEEPER">Most catches in an innings (non-keeper)</label>
+                </td>
+                <td>
+                </td>
+            </tr>
+            <tr id="stats__FIELDING_MOST_DISMISSALS_SERIES_KEEPER">
+                <td>
+                    <input type="checkbox" name="FIELDING_MOST_DISMISSALS_SERIES_KEEPER" />
+                    <label for="FIELDING_MOST_DISMISSALS_SERIES_KEEPER">Most dismissals in a series (wicketkeeper)</label>
+                </td>
+                <td>
+                </td>
+            </tr>
+            <tr id="stats__FIELDING_MOST_CATCHES_SERIES_NON_KEEPER">
+                <td>
+                    <input type="checkbox" name="FIELDING_MOST_CATCHES_SERIES_NON_KEEPER" />
+                    <label for="FIELDING_MOST_CATCHES_SERIES_NON_KEEPER">Most catches in a series (non-keeper)</label>
+                </td>
+                <td>
+                </td>
+            </tr>
+            <tr>
+                <th scope="col" colspan="2">Partnership records</th>
+            </tr>
+            <tr id="stats__BATTING_HIGHEST_PARTNERSHIP_WICKET">
+                <td>
+                    <input type="checkbox" name="BATTING_HIGHEST_PARTNERSHIP_WICKET" />
+                    <label for="BATTING_HIGHEST_PARTNERSHIP_WICKET">Highest partnership by wicket</label>
+                </td>
+                <td>
+                </td>
+            </tr>
+            <tr id="stats__BATTING_HIGHEST_PARTNERSHIP_RUNS">
+                <td>
+                    <input type="checkbox" name="BATTING_HIGHEST_PARTNERSHIP_RUNS" />
+                    <label for="BATTING_HIGHEST_PARTNERSHIP_RUNS">Highest partnership by runs</label>
+                </td>
+                <td>
+                </td>
+            </tr>
+            <tr>
+                <th scope="col" colspan="2">Miscellaneous records</th>
+            </tr>
+            <tr id="stats__MOST_MATCHES">
+                <td>
+                    <input type="checkbox" name="MOST_MATCHES" />
+                    <label for="MOST_MATCHES">Most matches</label>
+                </td>
+                <td>
+                </td>
+            </tr>
+            <tr id="stats__MOST_EXTRAS_INNINGS">
+                <td>
+                    <input type="checkbox" name="MOST_EXTRAS_INNINGS" />
+                    <label for="MOST_EXTRAS_INNINGS">Most extras in an innings</label>
+                </td>
+                <td>
+                </td>
+            </tr>
+        </table>
+ 
+        <div id="formbuttons">
+            <input id="submitbutton" type="button" value="Submit" />
+            <input id="selectallbutton" type="button" value="Select all" />
+            <input id="deselectallbutton" type="button" value="Deselect all" />
+        </div>
+ 
+        <h2>Error messages</h2>
+        <table id="errortable">
+            <tr>
+                <th scope="col">Type</th>
+                <th scope="col">Message</th>
+                <th scope="col">File</th>
+                <th scope="col">Line</th>
+            </tr>
+        </table>
+ 
+    </body>
+</html>

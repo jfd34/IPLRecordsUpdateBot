@@ -1,0 +1,1048 @@
+This is a '''list of statistics and records''' of the '''[[Indian Premier League]]''', a [[Twenty20]] [[cricket]] competition based in India. The statistics and records included in this article take into account only those matches where two IPL teams were playing against each other as part of an IPL season. They do not include the results of trial games, exhibition matches, or games played in other tournaments such as the [[Champions League Twenty20]].
+
+==Team records==
+
+===Result summary===
+{{Indian Premier League results}}
+
+===Highest totals===
+
+{| class="wikitable sortable" style="text-align:center"
+! Score !! Team !! Opponent !! {{Tooltip | Ov | Overs }} !!{{Tooltip | RR | Run rate }} !! {{Tooltip | Inns | Innings }} !! Ground !! Date !! Scorecard
+|-
+| {{ntsh|{{#expr:264+1/6}}}}'''263/5''' || style="text-align:left"|{{Cr-IPL|bang}} || style="text-align:left"|{{Cr-IPL|pune}} || 20.0 || 13.15 || 1 || [[2013 Indian Premier League|2013]] || style="text-align:left"|<small>'''[[Bangalore]]''' – [[M. Chinnaswamy Stadium]]</small> || <small>[http://www.espncricinfo.com/ipl2009/engine/match/598027.html 23 April 2013]</small>
+|-
+| {{ntsh|{{#expr:247+1/6}}}}'''246/5''' || style="text-align:left"|{{Cr-IPL|chen}} || style="text-align:left"|{{Cr-IPL|raja}} || 20.0 || 12.30 || 1 || [[2010 Indian Premier League|2010]] || style="text-align:left"|<small>'''[[Chennai]]''' – [[M. A. Chidambaram Stadium]]</small> || <small>[http://www.espncricinfo.com/ipl2009/engine/match/419137.html 3 April 2010]</small>
+|-
+| {{ntsh|{{#expr:241+1/6}}}}'''240/5''' || style="text-align:left"|{{Cr-IPL|chen}} || style="text-align:left"|{{Cr-IPL|kings}} || 20.0 || 12.00 || 1 || [[2008 Indian Premier League|2008]] || style="text-align:left"|<small>'''[[Mohali]]''' – [[Punjab Cricket Association Stadium]]</small> || <small>[http://www.espncricinfo.com/ipl2009/engine/match/335983.html 19 April 2008]</small>
+|-
+| {{ntsh|{{#expr:233+1/3}}}}'''232/2''' || style="text-align:left"|{{Cr-IPL|kings}} || style="text-align:left"|{{Cr-IPL|bang}} || 20.0 || 11.60 || 1 || [[2011 Indian Premier League|2011]] || style="text-align:left"|<small>'''[[Dharamsala, Himachal Pradesh|Dharamsala]]''' – [[HPCA Cricket Stadium]]</small> || <small>[http://www.espncricinfo.com/ipl2009/engine/match/501260.html 17 May 2011]</small>
+|-
+| {{ntsh|{{#expr:232+1/5}}}}'''231/4''' || style="text-align:left"|{{Cr-IPL|delhi}} || style="text-align:left"|{{Cr-IPL|kings}} || 20.0 || 11.55 || 1 || [[2011 Indian Premier League|2011]] || style="text-align:left"|<small>'''[[Delhi]]''' – [[Feroz Shah Kotla]]</small> || <small>[http://www.espncricinfo.com/ipl2009/engine/match/501223.html 23 April 2011]</small>
+|}
+
+<div style="font-size:75%">[http://stats.cricinfo.com/ipl2009/engine/records/team/highest_innings_totals.html?id=117;type=trophy Full Table on Cricinfo]</div>
+
+===Lowest totals===
+
+{| class="wikitable sortable" style="text-align:center"
+|-
+! Score !! Team !! Opponent !! {{Tooltip | Ov | Overs }} !!{{Tooltip | RR | Run rate }} !! {{Tooltip | Inns | Innings }} !! Ground !! Date !! Scorecard
+|-
+| {{ntsh|{{#expr:59+1/11}}}}'''58''' || style="text-align:left"|{{Cr-IPL|raja}} || style="text-align:left"|{{Cr-IPL|bang}} || 15.1 || 3.82 || 2 || [[2009 Indian Premier League|2009]] || style="text-align:left"|<small>'''[[Cape Town]]''' – [[Newlands Cricket Ground]]</small> || <small>[http://www.espncricinfo.com/ipl2009/engine/match/392182.html 18 April 2009]</small>
+|-
+| {{ntsh|{{#expr:68+1/11}}}}'''67''' || style="text-align:left"|{{Cr-IPL|kolk}} || style="text-align:left"|{{Cr-IPL|mumb}} || 15.2 || 4.36 || 1 || [[2008 Indian Premier League|2008]] || style="text-align:left"|<small>'''[[Mumbai]]''' – [[Wankhede Stadium]]</small> || <small>[http://www.espncricinfo.com/ipl2009/engine/match/336021.html 16 May 2008]</small>
+|-
+| {{ntsh|{{#expr:75+1/11}}}}'''74''' || style="text-align:left"|{{Cr-IPL|koch}} || style="text-align:left"|{{Cr-IPL|decc}} || 16.3 || 4.48 || 2 || [[2011 Indian Premier League|2011]] || style="text-align:left"|<small>'''[[Kochi]]''' – [[Jawaharlal Nehru Stadium, Kochi|Jawaharlal Nehru Stadium]]</small> || <small>[http://www.espncricinfo.com/ipl2009/engine/match/501229.html 27 April 2011]</small>
+|-
+| {{ntsh|{{#expr:80+1/11}}}}'''79''' || style="text-align:left"|{{Cr-IPL|chen}} || style="text-align:left"|{{Cr-IPL|mumb}} || 15.2 || 5.15 || 2 || [[2013 Indian Premier League|2013]] || style="text-align:left"|<small>'''[[Mumbai]]''' – [[Wankhede Stadium]]</small> || <small>[http://www.espncricinfo.com/ipl2009/engine/match/598046.html 5 May 2013]</small>
+|-
+| {{ntsh|{{#expr:81+1/11}}}}'''80''' || style="text-align:left"|{{Cr-IPL|delhi}} || style="text-align:left"|{{Cr-IPL|hyde}} || 19.1 || 4.17 || 1 || [[2013 Indian Premier League|2013]] || style="text-align:left"|<small>'''[[Hyderabad, India|Hyderabad]]''' – [[Rajiv Gandhi International Cricket Stadium]]</small> || <small>[http://www.espncricinfo.com/ipl2009/engine/match/598044.html 4 May 2013]</small>
+|}
+
+<div style="font-size:75%">[http://stats.cricinfo.com/ipl2009/engine/records/team/lowest_innings_totals.html?id=117;type=trophy Full Table on Cricinfo]</div>
+
+===Highest match aggregates===
+
+{| class="wikitable sortable" style="text-align:center"
+|-
+! Score !! Winner !! Loser !! {{Tooltip | Ov | Overs }} !!{{Tooltip | RR | Run rate }} !! {{Tooltip | Wkts | Wickets }} !! Ground !! Date !! Scorecard
+|-
+| '''469''' || style="text-align:left"|{{Cr-IPL|chen}} || style="text-align:left"|{{Cr-IPL|raja}} || 40.0 || 11.72 || 10 || [[2010 Indian Premier League|2010]] || style="text-align:left"|<small>'''[[Chennai]]''' – [[M. A. Chidambaram Stadium]]</small> || <small>[http://www.espncricinfo.com/ipl2009/engine/match/419137.html 3 April 2010]</small>
+|-
+| '''447''' || style="text-align:left"|{{Cr-IPL|chen}} || style="text-align:left"|{{Cr-IPL|kings}} || 40.0 || 11.17 || 9 || [[2008 Indian Premier League|2008]] || style="text-align:left"|<small>'''[[Mohali]]''' – [[Punjab Cricket Association Stadium]]</small> || <small>[http://www.espncricinfo.com/ipl2009/engine/match/335983.html 19 April 2008]</small>
+|-
+| '''433''' || style="text-align:left"|{{Cr-IPL|delhi}} || style="text-align:left"|{{Cr-IPL|kings}} || 40.0 || 10.82 || 10 || [[2011 Indian Premier League|2011]] || style="text-align:left"|<small>'''[[Delhi]]''' – [[Feroz Shah Kotla]]</small> || <small>[http://www.espncricinfo.com/ipl2009/engine/match/501223.html 23 April 2011]</small>
+|-
+| '''431''' || style="text-align:left"|{{Cr-IPL|raja}} || style="text-align:left"|{{Cr-IPL|decc}} || 39.5 || 10.82 || 12 || [[2008 Indian Premier League|2008]] || style="text-align:left"|<small>'''[[Hyderabad, India|Hyderabad]]''' – [[Rajiv Gandhi International Cricket Stadium]]</small> || <small>[http://www.espncricinfo.com/ipl2009/engine/match/335990.html 24 April 2008]</small>
+|-
+| '''420''' || style="text-align:left"|{{Cr-IPL|mumb}} || style="text-align:left"|{{Cr-IPL|raja}} || 40.0 || 10.50 || 13 || [[2010 Indian Premier League|2010]] || style="text-align:left"|<small>'''[[Mumbai]]''' – [[Brabourne Stadium]]</small> || <small>[http://www.espncricinfo.com/ipl2009/engine/match/419107.html 13 March 2010]</small>
+|}
+
+<div style="font-size:75%">[http://stats.cricinfo.com/ipl2009/engine/records/team/highest_match_aggregates.html?id=117;type=trophy Full Table on Cricinfo]</div>
+
+===Lowest match aggregates===
+
+{| class="wikitable sortable" style="text-align:center"
+|-
+! Score !! Winner !! Loser !! {{Tooltip | Ov | Overs }} !!{{Tooltip | RR | Run rate }} !! {{Tooltip | Wkts | Wickets }} !! Ground !! Date !! Scorecard
+|-
+| '''135''' || style="text-align:left"|{{Cr-IPL|mumb}} || style="text-align:left"|{{Cr-IPL|kolk}} || 20.5 || 6.48 || 12 || [[2008 Indian Premier League|2008]] || style="text-align:left"|<small>'''[[Mumbai]]''' – [[Wankhede Stadium]]</small> || <small>[http://www.espncricinfo.com/ipl2009/engine/match/336021.html 16 May 2008]</small>
+|-
+| '''161''' || style="text-align:left"|{{Cr-IPL|hyde}} || style="text-align:left"|{{Cr-IPL|delhi}} || 33.0 || 4.87 || 14 || [[2013 Indian Premier League|2013]] || style="text-align:left"|<small>'''[[Hyderabad, India|Hyderabad]]''' – [[Rajiv Gandhi International Cricket Stadium]]</small> || <small>[http://www.espncricinfo.com/ipl2009/engine/match/598044.html 4 May 2013]</small>
+|-
+| '''162''' || style="text-align:left"|{{Cr-IPL|delhi}} || style="text-align:left"|{{Cr-IPL|kings}} || 16.5 || 9.62 || 7 || [[2009 Indian Premier League|2009]] || style="text-align:left"|<small>'''[[Cape Town]]''' – [[Newlands Cricket Ground]]</small> || <small>[http://www.espncricinfo.com/ipl2009/engine/match/392183.html 19 April 2009]</small>
+|-
+| '''166''' || style="text-align:left"|{{Cr-IPL|kolk}} || style="text-align:left"|{{Cr-IPL|raja}} || 29.1 || 5.69 || 12 || [[2011 Indian Premier League|2011]] || style="text-align:left"|<small>'''[[Kolkata]]''' – [[Eden Gardens]]</small> || <small>[http://www.espncricinfo.com/ipl2009/engine/match/501214.html 17 April 2011]</small>
+|-
+| '''168''' || style="text-align:left"|{{Cr-IPL|bang}} || style="text-align:left"|{{Cr-IPL|decc}} || 32.2 || 5.19 || 11 || [[2010 Indian Premier League|2010]] || style="text-align:left"|<small>'''[[Navi Mumbai]]''' – [[DY Patil Stadium]]</small> || <small>[http://www.espncricinfo.com/ipl2009/engine/match/419164.html 24 April 2010]</small>
+|}
+
+<div style="font-size:75%">[http://stats.cricinfo.com/ipl2009/engine/records/team/lowest_match_aggregates.html?id=117;type=trophy Full Table on Cricinfo]</div>
+
+===Largest victories===
+
+====By runs====
+
+{| class="wikitable sortable" style="text-align:center"
+|-
+! Margin !! Team !! Target !! Opponent !! Ground !! Date !! Scorecard
+|-
+| '''{{nts|140}} runs''' || style="text-align:left"|{{Cr-IPL|kolk}} || 223 || style="text-align:left"|{{Cr-IPL|bang}} || [[2008 Indian Premier League|2008]] || style="text-align:left"|<small>'''[[Bangalore]]''' – [[M. Chinnaswamy Stadium]]</small> || <small>[http://www.espncricinfo.com/ipl2009/engine/match/335982.html 18 April 2008]</small>
+|-
+| '''{{nts|130}} runs''' || style="text-align:left"|{{Cr-IPL|bang}} || 264 || style="text-align:left"|{{Cr-IPL|pune}} || [[2013 Indian Premier League|2013]] || style="text-align:left"|<small>'''[[Bangalore]]''' – [[M. Chinnaswamy Stadium]]</small> || <small>[http://www.espncricinfo.com/ipl2009/engine/match/598027.html 23 April 2013]</small>
+|-
+| '''{{nts|111}} runs''' || style="text-align:left"|{{Cr-IPL|kings}} || 233 || style="text-align:left"|{{Cr-IPL|bang}} || [[2011 Indian Premier League|2011]] || style="text-align:left"|<small>'''[[Dharamsala, Himachal Pradesh|Dharamsala]]''' – [[HPCA Cricket Stadium]]</small> || <small>[http://www.espncricinfo.com/ipl2009/engine/match/501260.html 17 May 2011]</small>
+|-
+| '''{{nts|105}} runs''' || style="text-align:left"|{{Cr-IPL|raja}} || 193 || style="text-align:left"|{{Cr-IPL|delhi}} || [[2008 Indian Premier League|2008]] || style="text-align:left"|<small>'''[[Mumbai]]''' – [[Wankhede Stadium]]</small> || <small>[http://www.espncricinfo.com/ipl2009/engine/match/336038.html 30 May 2008]</small>
+|-
+| '''{{nts|98}} runs''' || style="text-align:left"|{{Cr-IPL|mumb}} || 219 || style="text-align:left"|{{Cr-IPL|delhi}} || [[2010 Indian Premier League|2010]] || style="text-align:left"|<small>'''[[Delhi]]''' – [[Feroz Shah Kotla]]</small> || <small>[http://www.espncricinfo.com/ipl2009/engine/match/419114.html 17 March 2010]</small>
+|}
+
+<div style="font-size:75%">[http://stats.cricinfo.com/ipl2009/engine/records/team/largest_margins.html?id=117;type=trophy Full Table on Cricinfo]</div>
+
+====By wickets====
+
+{| class="wikitable sortable" style="text-align:center"
+|-
+! Margin !! Winner !! Target !! Balls rem. !! {{Tooltip | Ov | Overs }} !!Loser !! Ground !! Date !! Scorecard
+|-
+| '''{{nts|10}} wickets''' || style="text-align:left"|{{Cr-IPL|mumb}} || 163 || 12 || 18.0 || style="text-align:left"|{{Cr-IPL|raja}} || [[2012 Indian Premier League|2012]] || style="text-align:left"|<small>'''[[Jaipur]]''' – [[Sawai Mansingh Stadium]]</small> || <small>[http://www.espncricinfo.com/ipl2009/engine/match/548377.html 20 May 2012]</small>
+|-
+| '''{{nts|10}} wickets''' || style="text-align:left"|{{Cr-IPL|decc}} || 155 || 48 || 12.0 || style="text-align:left"|{{Cr-IPL|mumb}} || [[2008 Indian Premier League|2008]] || style="text-align:left"|<small>'''[[Navi Mumbai]]''' – [[DY Patil Stadium]]</small> || <small>[http://www.espncricinfo.com/ipl2009/engine/match/335994.html 27 April 2008]</small>
+|-
+| '''{{nts|10}} wickets''' || style="text-align:left"|{{Cr-IPL|chen}} || 139 || 16 || 17.2 || style="text-align:left"|{{Cr-IPL|kings}} || [[2013 Indian Premier League|2013]] || style="text-align:left"|<small>'''[[Mohali]]''' – [[Punjab Cricket Association Stadium]]</small> || <small>[http://www.espncricinfo.com/ipl2009/engine/match/598007.html 10 April 2013]</small>
+|-
+| '''{{nts|10}} wickets''' || style="text-align:left"|{{Cr-IPL|raja}} || 134 || 41 || 13.1 || style="text-align:left"|{{Cr-IPL|mumb}} || [[2011 Indian Premier League|2011]] || style="text-align:left"|<small>'''[[Mumbai]]''' – [[Wankhede Stadium]]</small> || <small>[http://www.espncricinfo.com/ipl2009/engine/match/501263.html 20 May 2011]</small>
+|-
+| '''{{nts|10}} wickets''' || style="text-align:left"|{{Cr-IPL|bang}} || 93 || 56 || 10.4 || style="text-align:left"|{{Cr-IPL|raja}} || [[2010 Indian Premier League|2010]] || style="text-align:left"|<small>'''[[Bangalore]]''' – [[M. Chinnaswamy Stadium]]</small> || <small>[http://www.espncricinfo.com/ipl2009/engine/match/419115.html 18 March 2010]</small>
+|}
+
+<div style="font-size:75%">[http://stats.cricinfo.com/ipl2009/engine/records/team/largest_margins.html?id=117;type=trophy Full Table on Cricinfo]</div>
+
+====By balls remaining====
+
+{| class="wikitable sortable" style="text-align:center"
+|-
+! Balls rem. !! Winner !! Target !! Margin !! {{Tooltip | Ov | Overs }} !!Loser !! Ground !! Date !! Scorecard
+|-
+| '''87''' || style="text-align:left"|{{Cr-IPL|mumb}} || 68 || {{nts|8}} wickets || 5.3 || style="text-align:left"|{{Cr-IPL|kolk}} || [[2008 Indian Premier League|2008]] || style="text-align:left"|<small>'''[[Mumbai]]''' – [[Wankhede Stadium]]</small> || <small>[http://www.espncricinfo.com/ipl2009/engine/match/336021.html 16 May 2008]</small>
+|-
+| '''76''' || style="text-align:left"|{{Cr-IPL|koch}} || 98 || {{nts|8}} wickets || 7.2 || style="text-align:left"|{{Cr-IPL|raja}} || [[2011 Indian Premier League|2011]] || style="text-align:left"|<small>'''[[Indore]]''' – [[Holkar Cricket Stadium]]</small> || <small>[http://www.espncricinfo.com/ipl2009/engine/match/501258.html 15 May 2011]</small>
+|-
+| '''56''' || style="text-align:left"|{{Cr-IPL|bang}} || 93 || {{nts|10}} wickets || 10.4 || style="text-align:left"|{{Cr-IPL|raja}} || [[2010 Indian Premier League|2010]] || style="text-align:left"|<small>'''[[Bangalore]]''' – [[M. Chinnaswamy Stadium]]</small> || <small>[http://www.espncricinfo.com/ipl2009/engine/match/419115.html 18 March 2010]</small>
+|-
+| '''48''' || style="text-align:left"|{{Cr-IPL|decc}} || 155 || {{nts|10}} wickets || 12.0 || style="text-align:left"|{{Cr-IPL|mumb}} || [[2008 Indian Premier League|2008]] || style="text-align:left"|<small>'''[[Navi Mumbai]]''' – [[DY Patil Stadium]]</small> || <small>[http://www.espncricinfo.com/ipl2009/engine/match/335994.html 27 April 2008]</small>
+|-
+| '''46''' || style="text-align:left"|{{Cr-IPL|kings}} || 100 || {{nts|8}} wickets || 12.2 || style="text-align:left"|{{Cr-IPL|pune}} || [[2013 Indian Premier League|2013]] || style="text-align:left"|<small>'''[[Pune]]''' – [[Subrata Roy Sahara Stadium]]</small> || <small>[http://www.espncricinfo.com/ipl2009/engine/match/598003.html 7 April 2013]</small>
+|}
+
+<div style="font-size:75%">[http://stats.cricinfo.com/ipl2009/engine/records/team/largest_margins.html?id=117;type=trophy Full Table on Cricinfo]</div>
+
+===Smallest victories===
+
+====By runs====
+
+{| class="wikitable sortable" style="text-align:center"
+|-
+! Margin !! Winner !! Target !! Loser !! Ground !! Date !! Scorecard
+|-
+| '''{{nts|1}} run''' || style="text-align:left"|{{Cr-IPL|mumb}} || 121 || style="text-align:left"|{{Cr-IPL|pune}} || [[2012 Indian Premier League|2012]] || style="text-align:left"|<small>'''[[Pune]]''' – [[Subrata Roy Sahara Stadium]]</small> || <small>[http://www.espncricinfo.com/ipl2009/engine/match/548351.html 3 May 2012]</small>
+|-
+| '''{{nts|1}} run''' || style="text-align:left"|{{Cr-IPL|kings}} || 135 || style="text-align:left"|{{Cr-IPL|decc}} || [[2009 Indian Premier League|2009]] || style="text-align:left"|<small>'''[[Johannesburg]]''' – [[Wanderers Stadium]]</small> || <small>[http://www.espncricinfo.com/ipl2009/engine/match/392229.html 17 May 2009]</small>
+|-
+| '''{{nts|1}} run''' || style="text-align:left"|{{Cr-IPL|delhi}} || 153 || style="text-align:left"|{{Cr-IPL|raja}} || [[2012 Indian Premier League|2012]] || style="text-align:left"|<small>'''[[Delhi]]''' – [[Feroz Shah Kotla]]</small> || <small>[http://www.espncricinfo.com/ipl2009/engine/match/548345.html 29 April 2012]</small>
+|-
+| '''{{nts|1}} run''' || style="text-align:left"|{{Cr-IPL|kings}} || 190 || style="text-align:left"|{{Cr-IPL|mumb}} || [[2008 Indian Premier League|2008]] || style="text-align:left"|<small>'''[[Mumbai]]''' – [[Wankhede Stadium]]</small> || <small>[http://www.espncricinfo.com/ipl2009/engine/match/336028.html 21 May 2008]</small>
+|-
+| '''{{nts|2}} runs''' || style="text-align:left"|{{Cr-IPL|kings}} || 135 || style="text-align:left"|{{Cr-IPL|kolk}} || [[2012 Indian Premier League|2012]] || style="text-align:left"|<small>'''[[Kolkata]]''' – [[Eden Gardens]]</small> || <small>[http://www.espncricinfo.com/ipl2009/engine/match/548323.html 15 April 2012]</small>
+|}
+
+<div style="font-size:75%">[http://stats.cricinfo.com/ipl2009/engine/records/team/smallest_margins.html?id=117;type=trophy Full Table on Cricinfo]</div>
+
+====By wickets====
+{| class="wikitable sortable" style="text-align:center"
+|-
+! Margin !! Winner !! Target !! Balls rem. !! {{Tooltip | Ov | Overs }} !!Loser !! Ground !! Date !! Scorecard
+|-
+| '''{{nts|2}} wickets''' || style="text-align:left"|{{Cr-IPL|bang}} || 130 || 2 || 19.4 || style="text-align:left"|{{Cr-IPL|chen}} || [[2009 Indian Premier League|2009]] || style="text-align:left"|<small>'''[[Durban]]''' – [[Kingsmead Cricket Ground]]</small> || <small>[http://www.espncricinfo.com/ipl2009/engine/match/392224.html 14 May 2009]</small>
+|-
+| '''{{nts|2}} wickets''' || style="text-align:left"|{{Cr-IPL|mumb}} || 174 || 0 || 20.0 || style="text-align:left"|{{Cr-IPL|chen}} || [[2012 Indian Premier League|2012]] || style="text-align:left"|<small>'''[[Mumbai]]''' – [[Wankhede Stadium]]</small> || <small>[http://www.espncricinfo.com/ipl2009/engine/match/548355.html 6 May 2012]</small>
+|-
+| '''{{nts|3}} wickets''' || style="text-align:left"|{{Cr-IPL|hyde}} || 115 || 4 || 19.2 || style="text-align:left"|{{Cr-IPL|delhi}} || [[2013 Indian Premier League|2013]] || style="text-align:left"|<small>'''[[Delhi]]''' – [[Feroz Shah Kotla]]</small> || <small>[http://www.espncricinfo.com/ipl2009/engine/match/598010.html 12 April 2013]</small>
+|-
+| '''{{nts|3}} wickets''' || style="text-align:left"|{{Cr-IPL|raja}} || 142 || 2 || 19.4 || style="text-align:left"|{{Cr-IPL|decc}} || [[2009 Indian Premier League|2009]] || style="text-align:left"|<small>'''[[Port Elizabeth]]''' – [[St George's Oval|St George's Park]]</small> || <small>[http://www.espncricinfo.com/ipl2009/engine/match/392205.html 2 May 2009]</small>
+|-
+| '''{{nts|3}} wickets''' || style="text-align:left"|{{Cr-IPL|raja}} || 157 || 5 || 19.1 || style="text-align:left"|{{Cr-IPL|delhi}} || [[2008 Indian Premier League|2008]] || style="text-align:left"|<small>'''[[Jaipur]]''' – [[Sawai Mansingh Stadium]]</small> || <small>[http://www.espncricinfo.com/ipl2009/engine/match/336015.html 11 May 2008]</small>
+|}
+
+<div style="font-size:75%">[http://stats.cricinfo.com/ipl2009/engine/records/team/smallest_margins.html?id=117;type=trophy Full Table on Cricinfo]</div>
+
+====By balls remaining====
+
+{| class="wikitable sortable" style="text-align:center"
+|-
+! Balls rem. !! Team !! Target !! Margin !! {{Tooltip | Ov | Overs }} !!Opponent !! Ground !! Date !! Scorecard
+|-
+| '''0''' || style="text-align:left"|{{Cr-IPL|mumb}} || 119 || {{nts|7}} wickets || 20.0 || style="text-align:left"|{{Cr-IPL|pune}} || [[2011 Indian Premier League|2011]] || style="text-align:left"|<small>'''[[Mumbai]]''' – [[Wankhede Stadium]]</small> || <small>[http://www.espncricinfo.com/ipl2009/engine/match/501218.html 20 April 2011]</small>
+|-
+| '''0''' || style="text-align:left"|{{Cr-IPL|mumb}} || 139 || {{nts|5}} wickets || 20.0 || style="text-align:left"|{{Cr-IPL|decc}} || [[2012 Indian Premier League|2012]] || style="text-align:left"|<small>'''[[Visakhapatnam]]''' – [[APCA-VDCA Stadium]]</small> || <small>[http://www.espncricinfo.com/ipl2009/engine/match/548314.html 9 April 2012]</small>
+|-
+| '''0''' || style="text-align:left"|{{Cr-IPL|raja}} || 146 || {{nts|5}} wickets || 20.0 || style="text-align:left"|{{Cr-IPL|mumb}} || [[2008 Indian Premier League|2008]] || style="text-align:left"|<small>'''[[Jaipur]]''' – [[Sawai Mansingh Stadium]]</small> || <small>[http://www.espncricinfo.com/ipl2009/engine/match/336036.html 26 May 2008]</small>
+|-
+| '''0''' || style="text-align:left"|{{Cr-IPL|chen}} || 147 || {{nts|7}} wickets || 20.0 || style="text-align:left"|{{Cr-IPL|raja}} || [[2012 Indian Premier League|2012]] || style="text-align:left"|<small>'''[[Chennai]]''' – [[M. A. Chidambaram Stadium]]</small> || <small>[http://www.espncricinfo.com/ipl2009/engine/match/548332.html 21 April 2012]</small>
+|-
+| '''0''' || style="text-align:left"|{{Cr-IPL|kings}} || 154 || {{nts|6}} wickets || 20.0 || style="text-align:left"|{{Cr-IPL|kolk}} || [[2009 Indian Premier League|2009]] || style="text-align:left"|<small>'''[[Port Elizabeth]]''' – [[St George's Oval|St George's Park]]</small> || <small>[http://www.espncricinfo.com/ipl2009/engine/match/392207.html 3 May 2009]</small>
+|}
+
+<div style="font-size:75%">Note: There are 15 instances when a team won with 0 balls remaining, but only the top 5 of them (lowest target first) are shown here.</div>
+<div style="font-size:75%">[http://stats.cricinfo.com/ipl2009/engine/records/team/smallest_margins.html?id=117;type=trophy Full Table on Cricinfo]</div>
+
+==Series records==
+
+===Series winners===
+
+{| class="wikitable sortable" style="text-align:center; font-size:90%"
+|-
+! Season !! Winner !! Captain !! Coach !! League finish !! {{Tooltip | Mat | Matches }} || {{Tooltip | W | Wins }} !! {{Tooltip | L | Losses }} !! Win % !! Runner-up
+|-
+|'''[[2008 Indian Premier League|2008]]''' || align=left|{{Cr-IPL|Raja|R}} || align=left|{{flagicon|Australia}} [[Shane Warne]] || align=left|{{flagicon|Australia}} [[Shane Warne]] || 1st || 16 || 13 || 3 || 81.25 || align=left|{{Cr-IPL|chen|R}}
+|-
+|'''[[2009 Indian Premier League|2009]]''' || align=left|{{Cr-IPL|Decc|R}} || align=left|{{flagicon|Australia}} [[Adam Gilchrist]] || align=left|{{flagicon|Australia}} [[Darren Lehmann]] || 4th || 16 || 9 || 7 || 56.25 || align=left|{{Cr-IPL|bang|R}}
+|-
+|'''[[2010 Indian Premier League|2010]]''' || align=left|{{Cr-IPL|chen|R}} || align=left|{{flagicon|India}} [[M S Dhoni]] || align=left|{{flagicon|New Zealand}} [[Stephen Fleming]] || 3rd || 16 || 9 || 7 || 56.25 || align=left|{{Cr-IPL|mumb|R}}
+|-
+|'''[[2011 Indian Premier League|2011]]''' || align=left|{{Cr-IPL|chen|R}} || align=left|{{flagicon|India}} [[M S Dhoni]] || align=left|{{flagicon|New Zealand}} [[Stephen Fleming]] || 2nd || 16 || 11 || 5 || 68.75 || align=left|{{Cr-IPL|bang|R}}
+|-
+|'''[[2012 Indian Premier League|2012]]''' || align=left|{{Cr-IPL|kolk|R}} || align=left|{{flagicon|India}} [[Gautam Gambhir]] || align=left|{{flagicon|Australia}} [[Trevor Bayliss]] || 2nd || 18 || 12 || 5 || 70.59 || align=left|{{Cr-IPL|chen|R}}
+|-
+|'''[[2013 Indian Premier League|2013]]''' || align=left|{{Cr-IPL|mumb|R}} || align=left|{{flagicon|India}} [[Rohit Sharma]] || align=left|{{flagicon|New Zealand}} [[John Wright (cricketer)|John Wright]] || 2nd || 19 || 13 || 6 || 68.4 || align=left|{{Cr-IPL|chen|R}}
+|}
+
+<div style="font-size:75%">[http://stats.cricinfo.com/ipl2009/engine/records/team/series_results.html?id=117;type=trophy Full Table on Cricinfo]</div>
+
+===Series summary===
+
+{| class="wikitable sortable" style="text-align:center"
+|-
+! Season !! Matches !! {{Tooltip | NR | No result }} !! Runs !! {{Tooltip | RR | Run rate }} !! 4s !! 6s !! 4s/6s per match !! {{Tooltip | Wkts | Wickets }} !! {{Tooltip | Mdns | Maidens }} !! Extras  
+|-
+|'''[[2008 Indian Premier League|2008]]''' || 59 || 2 || 17810 || 8.23 || 2105 || 781 || 35.68/13.24 || 751 || 24 || 1123
+|-
+|'''[[2009 Indian Premier League|2009]]''' || 59 || 2 || 16180 || 7.40 || 1719 || 665 || 29.14 11.27 || 761 || 25 || 976
+|-
+|'''[[2010 Indian Premier League|2010]]''' || 60 || 0 || 18862 || 8.08 || 1959 || 699 || 32.65/11.65 || 706 || 13 || 1129
+|-
+|'''[[2011 Indian Premier League|2011]]''' || 74 || 1 || 19724 || 7.63 || 1913 || 639 || 26.21/8.75 || 739 || 34 || 1225
+|-
+|'''[[2012 Indian Premier League|2012]]''' || 76 || 2 || 22453 || 7.82 || 1911 || 731 || 24.96/9.833 || 810 || 14 || 62	
+|-
+|'''[[2013 Indian Premier League|2013]]''' || 76 || 0 || 22541 || 0 || 2051 || 674 || 26.98/8.86 || 909 || 92 || 526
+
+|}
+
+===Winning streak of series===
+
+{| class="wikitable sortable" style="text-align:center"
+|-
+! Winning Streak !! Team !! Season !! Streak start !! Streak end
+|-
+| 7 || align=left|[[Royal Challengers Bangalore]] || 2011 || 6 || 12
+|-
+| 7 || align=left|[[Chennai Super Kings]] || 2013 || 5 || 11
+|-
+| 6 || align=left|[[Mumbai Indians]] || 2008 || 5 || 10
+|-
+| 6 || align=left|[[Rajasthan Royals]] || 2008 || 8 || 13
+|-
+| 6 || align=left|[[Kolkata Knight Riders]] || 2012 || 6 || 12
+|}
+
+===Losing streak of series===
+
+{| class="wikitable sortable" style="text-align:center"
+|-
+! Losing Streak !! Team !! Season !! Streak start !! Streak end
+|-
+| 9 || align=left|[[Pune Warriors]] || 2012 || 8 || 16
+|-
+| 9 || align=left|[[Pune Warriors]] || 2013 || 6 || 14*
+|-
+| 8 || align=left|[[Kolkata Knight Riders]] || 2009 || 5 || 12
+|-
+| 7 || align=left|[[Deccan Chargers]] || 2008 || 8 || 14
+|-
+| 7 || align=left|[[Pune Warriors]] || 2011 || 3 || 9
+|-
+| 6 || align=left|[[Delhi Daredevils]] || 2013 || 1 || 6
+|}
+
+===Player of the series / Most valuable player===
+{| class="wikitable sortable" style="text-align:center"
+!rowspan=2| Season !!rowspan=2| Player !!rowspan=2| Team !!rowspan=2| {{Tooltip | Mat | Matches }} !!colspan=3| Batting !!colspan=4| Bowling !!rowspan=2| {{Tooltip | Cts.+sts. | Catches and stumpings }}
+|-
+! {{Tooltip | Runs | Runs scored }} !! {{Tooltip | SR | Strike rate }} !! {{Tooltip | Ave | Average }} !! {{Tooltip | Wkts | Wickets }} !! {{Tooltip | Runs | Runs conceded }} !! {{Tooltip | SR | Strike rate }} !! {{Tooltip | Ave | Average }}
+|-
+|'''[[2008 Indian Premier League|2008]]''' || align=left|{{flagicon|Australia}} [[Shane Watson]] || align=left|{{Cr-IPL|raja|R}} || 15 || 472 || 151.76 || 47.20 || 17 || 383 || 19.1 || 22.52 || 2
+|-
+|'''[[2009 Indian Premier League|2009]]''' || align=left|{{flagicon|Australia}} [[Adam Gilchrist]] || align=left|{{Cr-IPL|decc|R}} || 16 || 495 || 152.30 || 30.93 || — || — || — || — || 18
+|-
+|'''[[2010 Indian Premier League|2010]]''' || align=left|{{flagicon|India}} [[Sachin Tendulkar]] || align=left|{{Cr-IPL|mumb|R}} || 16 || 618 || 132.61 || 47.53 || — || — || — || — || 3
+|-
+|'''[[2011 Indian Premier League|2011]]''' || align=left|{{flagicon|Jamaica}} [[Chris Gayle]] || align=left|{{Cr-IPL|bang|R}} || 12 || 608 || 183.13 || 67.55 || 8 || 244 || 27.0 || 30.50 || 2
+|-
+|'''[[2012 Indian Premier League|2012]]''' || align=left|{{flagicon|TRI}} [[Sunil Narine]] || align=left|{{Cr-IPL|kolk|R}} || 15 || — || — || — || 24 || 324 || 14.7 || 13.50 || —
+|-
+|'''[[2013 Indian Premier League|2013]]''' ||  align=left|{{flagicon|Australia}} [[Shane Watson]] ||  align=left|{{Cr-IPL|raja|R}} || 16 || 543 || 142.89 || 38.78 || 13 || 298 || 19.23 || 22.92 || 6
+|}
+
+===Orange cap winners===
+{| class="wikitable sortable" style="text-align:center"
+|-
+! Season !! Player !! Team !! Runs !! {{ Tooltip | Mat | Matches }} !! {{ Tooltip | Inns | Innings }} !! Balls !! {{ Tooltip | SR | Strike rate }} !! {{ Tooltip | Ave | Average }} !! {{ Tooltip | HS | Highest score }} !! 100s !! 50s !! 4s !! 6s
+|-
+|'''[[2008 Indian Premier League|2008]]''' || align=left|{{flagicon|Australia}} [[Shaun Marsh]] || align=left|{{Cr-IPL|kings|R}} || 616 || 11 || 11 || 441 || 139.68 || 68.44 || 115* || 1 || 5 || 59 || 26
+|-
+|'''[[2009 Indian Premier League|2009]]''' || align=left|{{flagicon|Australia}} [[Matthew Hayden]] || align=left|{{Cr-IPL|chen|R}} || 572 || 12 || 12 || 395 || 144.81 || 52.00 || 89 || 0 || 5 || 60 || 22
+|-
+|'''[[2010 Indian Premier League|2010]]''' || align=left|{{flagicon|India}} [[Sachin Tendulkar]] || align=left|{{Cr-IPL|mumb|R}} || 618 || 15 || 15 || 466 || 132.61 || 47.53 || 89* || 0 || 5 || 86 || 3
+|-
+|'''[[2011 Indian Premier League|2011]]''' || align=left|{{flagicon|Jamaica}} [[Chris Gayle]] || align=left|{{Cr-IPL|bang|R}} || 608 || 12 || 12 || 332 || 183.13 || 67.55 || 107 || 2 || 3 || 56 || 44
+|-
+|'''[[2012 Indian Premier League|2012]]''' || align=left|{{flagicon|Jamaica}} [[Chris Gayle]] || align=left|{{Cr-IPL|bang|R}} || 733 || 15 || 14 || 456 || 160.74 || 61.08 || 128 || 1 || 7 || 46 || 59
+|-
+|'''[[2013 Indian Premier League|2013]]''' || align=left|{{flagicon|Australia}} [[Michael Hussey]] || align=left|{{Cr-IPL|chen|R}} || 733 || 16 || 16 || 566 || 129.50 || 52.35 || 95 || 0 || 6 || 81 || 17
+|}
+
+===Purple cap winners===
+{| class="wikitable sortable" style="text-align:center"
+|-
+! Season !! Player !! Team !! {{ Tooltip | Wkts | Wickets }} !! {{ Tooltip | Mat | Matches }} !! {{Tooltip | Ov | Overs }} !!{{ Tooltip | Econ | Economy rate }} !! {{ Tooltip | Ave | Average }} !! {{ Tooltip | SR | Strike rate }} !! {{ Tooltip | BBI | Best innings bowling }}
+|-
+|'''[[2008 Indian Premier League|2008]]''' || align=left|{{flagicon|Pakistan}} [[Sohail Tanvir]] || align=left|{{Cr-IPL|raja|R}} || 22 || 11 || 41.1 || 6.46 || 12.09 || 11.2 || 6 / 14
+|-
+|'''[[2009 Indian Premier League|2009]]''' || align=left|{{flagicon|India}} [[R.P. Singh]] || align=left|{{Cr-IPL|decc|R|R}} || 23 || 16 || 59.4 || 6.98 || 18.13 || 15.5 || 4 / 22
+|-
+|'''[[2010 Indian Premier League|2010]]''' || align=left|{{flagicon|India}} [[Pragyan Ojha]] || align=left|{{Cr-IPL|decc|R|R}} || 21 || 16 || 58.5 || 7.29 || 20.42 || 16.8 || 3 / 26
+|-
+|'''[[2011 Indian Premier League|2011]]''' || align=left|{{flagicon|Sri Lanka}} [[Lasith Malinga]] || align=left|{{Cr-IPL|mumb|R|R}} || 28 || 16 || 63.0 || 6.03 || 13.39 || 13.5 || 5 / 13
+|-
+|'''[[2012 Indian Premier League|2012]]''' || align=left|{{flagicon|South Africa}} [[Morné Morkel]] || align=left|{{Cr-IPL|delhi|R|R}} || 25 || 16 || 63.0 || 7.19 || 18.12 || 15.1 || 4 / 20
+|-
+|'''[[2013 Indian Premier League|2013]]''' || align=left|{{flagicon|West Indies}} [[Dwayne Bravo]] || align=left|{{Cr-IPL|chen|R|R}} 
+|| 32 || 18 || 62.3 || 7.95 || 15.53 || 11.7 || 4 / 42
+|}
+
+===Fair Play Award winners===
+{| class="wikitable sortable" style="text-align:center"
+|-
+! Season !! Winner !! Total matches !! Fair Play Points !! Average points per match !! League standing
+|-
+| '''[[2008 Indian Premier League|2008]]''' || align=left|{{Cr-IPL|chen|R}} || 16 || 134 || 8.3 || Runners-up
+|-
+| '''[[2009 Indian Premier League|2009]]''' || align=left|{{Cr-IPL|kings|R}} || 14 || 122 || 8.8 || 5th out of 8 teams
+|-
+| '''[[2010 Indian Premier League|2010]]''' || align=left|{{Cr-IPL|chen|R}} || 16 || 140 || 8.8 || Champions
+|-
+| '''[[2011 Indian Premier League|2011]]''' || align=left|{{Cr-IPL|chen|R}} || 14 || — || — || Champions
+|-
+| '''[[2012 Indian Premier League|2012]]''' || align=left|{{Cr-IPL|Raja|R}} || 16 || 154 || 9.6 || 7th out of 10 teams
+|-
+| '''[[2013 Indian Premier League|2013]]''' || align=left | {{Cr-IPL|chen|R}} || 18 || - || - || Runners-up
+|}
+
+==Individual records==
+
+===Batting records===
+
+====Most runs====
+
+{| class="wikitable sortable" style="text-align:center"
+|-
+! Runs !! Player !! Current Team !! Span !! {{ Tooltip | Mat | Matches }} !! {{ Tooltip | Inns | Innings }} !! Balls !! {{ Tooltip | SR | Strike rate }} !! {{ Tooltip | Ave | Average }} !! {{ Tooltip | HS | Highest score }} !! 100s !! 50s !! 4s !! 6s
+|-
+| '''2802''' || style="text-align:left"|{{flagicon|India}} {{sortname|1=Suresh|2=Raina}} || style="text-align:left"|{{Cr-IPL|chen}} || 2008&#8211;2013 || 99 || 95 || 1982 || 141.37 || 35.02 || {{nts|100}}* || 1 || 18 || 239 || 115
+|-
+| '''2513''' || style="text-align:left"|{{flagicon|India}} {{sortname|1=Rohit|2=Sharma}} || style="text-align:left"|{{Cr-IPL|mumb}} || 2008&#8211;2013 || 97 || 93 || 1938 || 129.66 || 32.63 || {{nts|109}}* || 1 || 18 || 202 || 110
+|-
+| '''2512''' || style="text-align:left"|{{flagicon|West Indies}} {{sortname|1=Chris|2=Gayle}} || style="text-align:left"|{{Cr-IPL|bang}} || 2009&#8211;2013 || 59 || 58 || 1568 || 160.20 || 52.33 || {{nts|175}}* || 4 || 16 || 204 || 180
+|-
+| '''2471''' || style="text-align:left"|{{flagicon|India}} {{sortname|1=Gautam|2=Gambhir}} || style="text-align:left"|{{Cr-IPL|kolk}} || 2008&#8211;2013 || 88 || 87 || 1945 || 127.04 || 31.67 || {{nts|93}} || 0 || 20 || 291 || 37
+|-
+| '''2334''' || style="text-align:left"|{{flagicon|India}} {{sortname|1=Sachin|2=Tendulkar}} || style="text-align:left"|{{Cr-IPL|mumb}} || 2008&#8211;2013 || 78 || 78 || 1948 || 119.81 || 34.83 || {{nts|100}}* || 1 || 13 || 295 || 29
+|}
+<div style="font-size:75%">[http://stats.cricinfo.com/ipl2009/engine/records/batting/most_runs_career.html?id=117;type=trophy Full Table on Cricinfo]</div>
+
+====Best strike rate====
+
+{| class="wikitable sortable" style="text-align:center"
+|-
+! {{ Tooltip | SR | Strike rate }} !! Player !! Current Team !! Span !! {{ Tooltip | Mat | Matches }} !! {{ Tooltip | Inns | Innings }} !! Runs !! Balls !! {{ Tooltip | Ave | Average }} !! {{ Tooltip | HS | Highest score }} !! 100s !! 50s || 4s || 6s
+|-
+| '''160.32''' || style="text-align:left"|{{flagicon|India}} {{sortname|1=Virender|2=Sehwag}} || style="text-align:left"|{{Cr-IPL|delhi}} || 2008&#8211;2013 || 79 || 79 || 2174 || 1356 || 29.37 || {{nts|119}} || 1 || 15 || 266 || 85
+|-
+| '''160.20''' || style="text-align:left"|{{flagicon|West Indies}} {{sortname|1=Chris|2=Gayle}} || style="text-align:left"|{{Cr-IPL|bang}} || 2009&#8211;2013 || 59 || 58 || 2512 || 1568 || 52.33 || {{nts|175}}* || 4 || 16 || 204 || 180
+|-
+| '''156.83''' || style="text-align:left"|{{flagicon|South Africa}} {{sortname|1=David|2=Miller|3=David Miller (cricketer)}} || style="text-align:left"|{{Cr-IPL|kings}} || 2012&#8211;2013 || 18 || 18 || 516 || 329 || 51.60 || {{nts|101}}* || 1 || 3 || 34 || 28
+|-
+| '''150.41''' || style="text-align:left"|{{flagicon|India}} {{sortname|1=Harbhajan|2=Singh|4=Harbhajan Singh}} || style="text-align:left"|{{Cr-IPL|mumb}} || 2008&#8211;2013 || 82 || 53 || 546 || 363 || 17.06 || {{nts|49}}* || 0 || 0 || 54 || 27
+|-
+| '''147.13''' || style="text-align:left"|{{flagicon|India}} {{sortname|1=Yusuf|2=Pathan}} || style="text-align:left"|{{Cr-IPL|kolk}} || 2008&#8211;2013 || 91 || 85 || 1820 || 1237 || 26.37 || {{nts|100}} || 1 || 7 || 153 || 95
+|}
+<small>Minimum balls faced – 125</small>
+<div style="font-size:75%">[http://stats.cricinfo.com/ipl2009/engine/records/batting/highest_career_strike_rate.html?id=117;type=trophy Full Table on Cricinfo]</div>
+
+====Best average====
+{| class="wikitable sortable" style="text-align:center"
+|-
+! {{ Tooltip | Ave | Average }} !! Player !! Current team !! Span !! {{ Tooltip | Mat | Matches }} !! {{ Tooltip | Inns | Innings }} !! Runs !! Balls !! {{ Tooltip | SR | Strike rate }} !! {{ Tooltip | HS | Highest score }} !! 100s !! 50s || 4s || 6s
+|-
+| '''52.33''' || style="text-align:left"|{{flagicon|West Indies}} {{sortname|1=Chris|2=Gayle}} || style="text-align:left"|{{Cr-IPL|bang}} || 2009&#8211;2013 || 59 || 58 || 2512 || 1568 || 160.20 || {{nts|175}}* || 4 || 16 || 204 || 180
+|-
+| '''51.60''' || style="text-align:left"|{{flagicon|South Africa}} {{sortname|1=David|2=Miller|3=David Miller (cricketer)}} || style="text-align:left"|{{Cr-IPL|kings}} || 2012&#8211;2013 || 18 || 18 || 516 || 329 || 156.83 || {{nts|101}}* || 1 || 3 || 34 || 28
+|-
+| '''44.50''' || style="text-align:left"|{{flagicon|Australia}} {{sortname|1=Michael|2=Hussey}} || style="text-align:left"|{{Cr-IPL|chen}} || 2008&#8211;2013 || 46 || 45 || 1691 || 1360 || 124.33 || {{nts|116}}* || 1 || 12 || 176 || 42
+|-
+| '''44.25''' || style="text-align:left"|{{flagicon|Australia}} {{sortname|1=Shaun|2=Marsh}} || style="text-align:left"|{{Cr-IPL|kings}} || 2008&#8211;2013 || 50 || 49 || 1903 || 1428 || 133.26 || {{nts|115}} || 1 || 16 || 203 || 63
+|-
+| '''42.26''' || style="text-align:left"|{{flagicon|England}} {{sortname|1=Kevin|2=Pietersen}} || style="text-align:left"|{{Cr-IPL|delhi}} || 2009&#8211;2012 || 21 || 21 || 634 || 449 || 141.20 || {{nts|103}}* || 1 || 3 || 53 || 30
+|}
+
+<small>Minimum innings – 10</small>
+<div style="font-size:75%">[http://stats.cricinfo.com/ipl2010/engine/records/batting/highest_career_batting_average.html?id=117;type=trophy Full Table on Cricinfo]</div>
+
+====Highest score====
+{| class="wikitable sortable" style="text-align:center"
+! Runs !! Player !! Team !! Opponent !! Balls !! {{Tooltip | SR | Strike rate }} !! Ground !! Date !! Scorecard
+|-
+| '''{{nts|175}}*''' || style="text-align:left"|{{flagicon|West Indies}} {{sortname|1=Chris|2=Gayle}} || style="text-align:left"|{{Cr-IPL|bang}} || style="text-align:left"|{{Cr-IPL|pune}} || 66 || 265.15 || [[2013 Indian Premier League|2013]] || style="text-align:left"|<small>'''[[Bangalore]]''' – [[M. Chinnaswamy Stadium]]</small> || <small>[http://www.espncricinfo.com/ipl2009/engine/match/598027.html 23 April 2013]</small>
+|-
+| '''{{nts|158}}*''' || style="text-align:left"|{{flagicon|New Zealand}} {{sortname|1=Brendon|2=McCullum}} || style="text-align:left"|{{Cr-IPL|kolk}} || style="text-align:left"|{{Cr-IPL|bang}} || 73 || 216.43 || [[2008 Indian Premier League|2008]] || style="text-align:left"|<small>'''[[Bangalore]]''' – [[M. Chinnaswamy Stadium]]</small> || <small>[http://www.espncricinfo.com/ipl2009/engine/match/335982.html 18 April 2008]</small>
+|-
+| '''{{nts|128}}*''' || style="text-align:left"|{{flagicon|West Indies}} {{sortname|1=Chris|2=Gayle}} || style="text-align:left"|{{Cr-IPL|bang}} || style="text-align:left"|{{Cr-IPL|delhi}} || 62 || 206.45 || [[2012 Indian Premier League|2012]] || style="text-align:left"|<small>'''[[Delhi]]''' – [[Feroz Shah Kotla]]</small> || <small>[http://www.espncricinfo.com/ipl2009/engine/match/548372.html 17 May 2012]</small>
+|-
+| '''{{nts|127}}''' || style="text-align:left"|{{flagicon|India}} {{sortname|1=Murali|2=Vijay}} || style="text-align:left"|{{Cr-IPL|chen}} || style="text-align:left"|{{Cr-IPL|raja}} || 56 || 226.78 || [[2010 Indian Premier League|2010]] || style="text-align:left"|<small>'''[[Chennai]]''' – [[M. A. Chidambaram Stadium]]</small> || <small>[http://www.espncricinfo.com/ipl2009/engine/match/419137.html 3 April 2010]</small>
+|-
+| '''{{nts|120}}*''' || style="text-align:left"|{{flagicon|India}} {{sortname|1=Paul|2=Valthaty}} || style="text-align:left"|{{Cr-IPL|kings}} || style="text-align:left"|{{Cr-IPL|chen}} || 63 || 190.47 || [[2011 Indian Premier League|2011]] || style="text-align:left"|<small>'''[[Mohali]]''' – [[Punjab Cricket Association Stadium]]</small> || <small>[http://www.espncricinfo.com/ipl2009/engine/match/501206.html 13 April 2011]</small>
+|}
+<div style="font-size:75%">[http://stats.cricinfo.com/ipl2009/engine/records/batting/most_runs_innings.html?id=117;type=trophy Full Table on Cricinfo]</div>
+
+====Fastest centuries====
+{| class="wikitable sortable" style="text-align:center"
+|-
+! Balls !! Player !! Team !! Opponent !! Inns !! Ground !! Date !! Scorecard
+|-
+|'''30''' || align=left|{{flagicon|Jamaica}} [[Chris Gayle]] || align=left|{{Cr-IPL|bang|R}} || align=left|{{Cr-IPL|Pune|R}}|| 1 || align=left|<small>'''[[Bangalore]]''' – [[M. Chinnaswamy Stadium]]</small> || 23 April 2013 || [http://www.espncricinfo.com/indian-premier-league-2013/engine/match/598027.html]
+|-
+|'''37''' || align=left|{{flagicon|India}} [[Yusuf Pathan]] || align=left|{{Cr-IPL|raja|R}} ||align=left|{{Cr-IPL|mumb|R}} || 2 || align=left|<small>'''[[Mumbai]]''' –[[Brabourne Stadium]] </small> || 13 March 2010 || [http://www.espncricinfo.com/ipl2010/engine/match/419107.html]
+|-
+|'''38''' || align=left|{{flagicon|South Africa}} [[David Miller (cricketer)|David Miller]] || align=left|{{Cr-IPL|kings|R}} ||align=left|{{Cr-IPL|bang|R}}|| 2 || align=left|<small>'''[[Mohali]]''' –[[Punjab Cricket Association Stadium]] </small> || 6 May 2013 || [http://www.espncricinfo.com/ci/engine/match/598064.html]
+|-
+|'''42''' || align=left|{{flagicon|Australia}} [[Adam Gilchrist]] || align=left|{{Cr-IPL|decc|R}} || align=left|{{Cr-IPL|mumb|R}}|| 2 || align=left|<small>'''[[Navi Mumbai]]''' – [[DY Patil Stadium]] </small> || 27 April 2008 || [http://www.espncricinfo.com/ipl/engine/current/match/335994.html]
+|-
+|'''45''' || align=left|{{flagicon|Sri Lanka}} [[Sanath Jayasuriya]] || align=left|{{Cr-IPL|mumb|R}} ||align=left|{{Cr-IPL|chen|R}}|| 2 || align=left|<small>'''[[Mumbai]]''' –[[Wankhede Stadium]] </small> || 14 May 2008 || [http://www.espncricinfo.com/ipl/engine/match/336018.html]
+|}
+
+====Most runs in a series====
+{| class="wikitable sortable" style="text-align:center"
+|-
+! Runs !! Player !! Team !! Season !! {{Tooltip | Mat | Matches }} !! {{Tooltip | Inns | Innings }} !! Balls !! {{Tooltip | SR | Strike rate }} !! {{Tooltip | Ave | Average }} !! {{Tooltip | HS | Highest score }} !! {{Tooltip | 100 | Hundreds scored}} !! {{Tooltip | 50 | Fifties scored}} !! {{Tooltip | 4s | Boundary fours}} !! {{Tooltip | 6s | Boundary sixes}}
+|-
+| '''733''' || style="text-align:left"|{{flagicon|West Indies}} {{sortname|1=Chris|2=Gayle}} || style="text-align:left"|{{Cr-IPL|bang}} || [[2012 Indian Premier League|2012]] || 15 || 14 || 456 || 160.74 || 61.08 || {{nts|128}}* || 1 || 7 || 46 || 59
+|-
+| '''733''' || style="text-align:left"|{{flagicon|Australia}} {{sortname|1=Michael|2=Hussey}} || style="text-align:left"|{{Cr-IPL|chen}} || [[2013 Indian Premier League|2013]] || 17 || 17 || 566 || 129.50 || 52.35 || {{nts|95}} || 0 || 6 || 81 || 17
+|-
+| '''708''' || style="text-align:left"|{{flagicon|West Indies}} {{sortname|1=Chris|2=Gayle}} || style="text-align:left"|{{Cr-IPL|bang}} || [[2013 Indian Premier League|2013]] || 16 || 16 || 453 || 156.29 || 59.00 || {{nts|175}}* || 1 || 4 || 57 || 51
+|-
+| '''634''' || style="text-align:left"|{{flagicon|India}} {{sortname|1=Virat|2=Kohli}} || style="text-align:left"|{{Cr-IPL|bang}} || [[2013 Indian Premier League|2013]] || 16 || 16 || 457 || 138.73 || 45.28 || {{nts|99}} || 0 || 6 || 64 || 22
+|-
+| '''618''' || style="text-align:left"|{{flagicon|India}} {{sortname|1=Sachin|2=Tendulkar}} || style="text-align:left"|{{Cr-IPL|mumb}} || [[2010 Indian Premier League|2010]] || 15 || 15 || 466 || 132.61 || 47.53 || {{nts|89}}* || 0 || 5 || 86 || 3
+|}
+<div style="font-size:75%">Note: ''Team'' refers to the team for which the player played in the season where the record was made, not the player&#39;s current team.</div>
+<div style="font-size:75%">[http://stats.cricinfo.com/ipl2009/engine/records/batting/most_runs_series.html?id=117;type=trophy Full Table on Cricinfo]</div>
+
+====Most sixes====
+{| class="wikitable sortable" style="text-align:center"
+|-
+! Sixes !! Player !! Current team !! Span !! {{Tooltip | Mat | Matches }} !! {{Tooltip | Inns | Innings }} !! Runs !! Balls !! 4s
+|-|
+| '''180''' || style="text-align:left"|{{flagicon|West Indies}} {{sortname|1=Chris|2=Gayle}} || style="text-align:left"|{{Cr-IPL|bang}} || 2009&#8211;2013 || 59 || 58 || 2512 || 1568 || 204
+|-
+| '''115''' || style="text-align:left"|{{flagicon|India}} {{sortname|1=Suresh|2=Raina}} || style="text-align:left"|{{Cr-IPL|chen}} || 2008&#8211;2013 || 99 || 95 || 2802 || 1982 || 239
+|-
+| '''110''' || style="text-align:left"|{{flagicon|India}} {{sortname|1=Rohit|2=Sharma}} || style="text-align:left"|{{Cr-IPL|mumb}} || 2008&#8211;2013 || 97 || 93 || 2513 || 1938 || 202
+|-
+| '''95''' || style="text-align:left"|{{flagicon|India}} {{sortname|1=Yusuf|2=Pathan}} || style="text-align:left"|{{Cr-IPL|kolk}} || 2008&#8211;2013 || 91 || 85 || 1820 || 1237 || 153
+|-
+| '''92''' || style="text-align:left"|{{flagicon|Australia}} {{sortname|1=Adam|2=Gilchrist}} || style="text-align:left"|{{Cr-IPL|kings}} || 2008&#8211;2013 || 80 || 80 || 2069 || 1495 || 239
+|}
+<div style="font-size:75%">[http://stats.cricinfo.com/ipl2009/engine/records/batting/most_sixes_career.html?id=117;type=trophy;type=trophy Full Table on Cricinfo]</div>
+
+====Most runs from boundaries in an innings====
+
+{| class="wikitable sortable" style="text-align:center"
+|-
+! 4s + 6s !! Player !! Team !! Opponent !! 4s !! 6s !! Score !! Balls !! Ground !! Date !! Scorecard
+|-
+| '''154''' || style="text-align:left"|{{flagicon|West Indies}} {{sortname|1=Chris|2=Gayle}} || style="text-align:left"|{{Cr-IPL|bang}} || style="text-align:left"|{{Cr-IPL|pune}} || 13 || 17 || {{nts|175}}* || 66 || [[2013 Indian Premier League|2013]] || style="text-align:left"|<small>'''[[Bangalore]]''' – [[M. Chinnaswamy Stadium]]</small> || <small>[http://www.espncricinfo.com/ipl2009/engine/match/598027.html 23 April 2013]</small>
+|-
+| '''118''' || style="text-align:left"|{{flagicon|New Zealand}} {{sortname|1=Brendon|2=McCullum}} || style="text-align:left"|{{Cr-IPL|kolk}} || style="text-align:left"|{{Cr-IPL|bang}} || 10 || 13 || {{nts|158}}* || 73 || [[2008 Indian Premier League|2008]] || style="text-align:left"|<small>'''[[Bangalore]]''' – [[M. Chinnaswamy Stadium]]</small> || <small>[http://www.espncricinfo.com/ipl2009/engine/match/335982.html 18 April 2008]</small>
+|-
+| '''106''' || style="text-align:left"|{{flagicon|West Indies}} {{sortname|1=Chris|2=Gayle}} || style="text-align:left"|{{Cr-IPL|bang}} || style="text-align:left"|{{Cr-IPL|delhi}} || 7 || 13 || {{nts|128}}* || 62 || [[2012 Indian Premier League|2012]] || style="text-align:left"|<small>'''[[Delhi]]''' – [[Feroz Shah Kotla]]</small> || <small>[http://www.espncricinfo.com/ipl2009/engine/match/548372.html 17 May 2012]</small>
+|-
+| '''102''' || style="text-align:left"|{{flagicon|Sri Lanka}} {{sortname|1=Sanath|2=Jayasuriya}} || style="text-align:left"|{{Cr-IPL|mumb}} || style="text-align:left"|{{Cr-IPL|chen}} || 9 || 11 || {{nts|114}}* || 48 || [[2008 Indian Premier League|2008]] || style="text-align:left"|<small>'''[[Mumbai]]''' – [[Wankhede Stadium]]</small> || <small>[http://www.espncricinfo.com/ipl2009/engine/match/336018.html 14 May 2008]</small>
+|-
+| '''98''' || style="text-align:left"|{{flagicon|India}} {{sortname|1=Murali|2=Vijay}} || style="text-align:left"|{{Cr-IPL|chen}} || style="text-align:left"|{{Cr-IPL|raja}} || 8 || 11 || {{nts|127}} || 56 || [[2010 Indian Premier League|2010]] || style="text-align:left"|<small>'''[[Chennai]]''' – [[M. A. Chidambaram Stadium]]</small> || <small>[http://www.espncricinfo.com/ipl2009/engine/match/419137.html 3 April 2010]</small>
+|}
+
+<div style="font-size:75%">[http://stats.cricinfo.com/ipl2009/engine/records/batting/most_runs_from_fours_sixes_innings.html?id=117;type=trophy;type=trophytype=trophy;type=trophytype=tournament Full Table on Cricinfo]</div>
+
+===Bowling records===
+
+====Most wickets====
+{| class="wikitable sortable" style="text-align:center"
+! {{ Tooltip | Wkts | Wickets }} !! Player !! Current team !! Span !! {{ Tooltip | Mat | Matches }}  !! {{ Tooltip | Inns | Innings }} !! {{Tooltip | Ov | Overs }} !!{{ Tooltip | Mdns | Maidens }} !! Runs !! {{ Tooltip | BBI | Best innings bowled }} !! {{ Tooltip | Ave | Average }} !! {{ Tooltip | Econ | Economy rate }} !! {{ Tooltip | SR | Strike rate }}
+|-
+| '''103''' || style="text-align:left"|{{flagicon|Sri Lanka}} {{sortname|1=Lasith|2=Malinga}} || style="text-align:left"|{{Cr-IPL|mumb}} || 2009&#8211;2013 || 73 || 73 || 282.2 || 5 || 1849 || {{ntsh|{{#expr:6+1/14}}}}5/13 || 17.95 || 6.54 || 16.4
+|-
+| '''95''' || style="text-align:left"|{{flagicon|India}} {{sortname|1=Amit|2=Mishra}} || style="text-align:left"|{{Cr-IPL|hyde}} || 2008&#8211;2013 || 76 || 76 || 277.2 || 4 || 1924 || {{ntsh|{{#expr:6+1/18}}}}5/17 || 20.25 || 6.93 || 17.5
+|-
+| '''87''' || style="text-align:left"|{{flagicon|India}} {{sortname|1=R. P.|2=Singh|4=Singh, Rudra Pratap}} || style="text-align:left"|{{Cr-IPL|bang}} || 2008&#8211;2013 || 78 || 78 || 283.5 || 2 || 2227 || {{ntsh|{{#expr:5+1/23}}}}4/22 || 25.59 || 7.84 || 19.5
+|-
+| '''85''' || style="text-align:left"|{{flagicon|India}} {{sortname|1=Pragyan|2=Ojha}} || style="text-align:left"|{{Cr-IPL|mumb}} || 2008&#8211;2013 || 79 || 77 || 268.3 || 0 || 1929 || {{ntsh|{{#expr:4+1/12}}}}3/11 || 22.69 || 7.18 || 18.9
+|-
+| '''84''' || style="text-align:left"|{{flagicon|India}} {{sortname|1=Piyush|2=Chawla}} || style="text-align:left"|{{Cr-IPL|kings}} || 2008&#8211;2013 || 87 || 87 || 297.2 || 2 || 2237 || {{ntsh|{{#expr:5+1/18}}}}4/17 || 26.63 || 7.52 || 21.2
+|}
+<div style="font-size:75%">[http://stats.cricinfo.com/ipl2009/engine/records/bowling/most_wickets_career.html?id=117;type=trophy Full Table on Cricinfo]</div>
+
+====Best strike rates====
+{| class="wikitable sortable" style="text-align:center"
+! {{ Tooltip | SR | Strike rate }} !! Player !! Current team !! Span !! {{ Tooltip | Mat | Matches }} !! {{Tooltip | Ov | Overs }} !!{{ Tooltip | Mdns | Maidens }} !! Runs !! {{ Tooltip | Wkts | Wickets }} !! {{ Tooltip | BBI | Best innings bowled }} !! {{ Tooltip | Ave | Average }} !! {{ Tooltip | Econ | Economy rate }}
+|-
+| '''13.7''' || style="text-align:left"|{{flagicon|Australia}} {{sortname|1=James|2=Faulkner|3=James Faulkner (cricketer)}} || style="text-align:left"|{{Cr-IPL|raja}} || 2011&#8211;2013 || 19 || 73.1 || 3 || 508 || 32 || {{ntsh|{{#expr:6+1/17}}}}5/16 || 15.87 || 6.94
+|-
+| '''14.0''' || style="text-align:left"|{{flagicon|India}} {{sortname|1=Sreenath|2=Aravind}} || style="text-align:left"|{{Cr-IPL|bang}} || 2011&#8211;2012 || 14 || 49.0 || 0 || 416 || 21 || {{ntsh|{{#expr:5+1/15}}}}4/14 || 19.80 || 8.48
+|-
+| '''14.4''' || style="text-align:left"|{{flagicon|Bangladesh}} {{sortname|1=Shakib Al|2=Hasan}} || style="text-align:left"|{{Cr-IPL|kolk}} || 2011&#8211;2012 || 15 || 55.3 || 0 || 370 || 23 || {{ntsh|{{#expr:4+1/18}}}}3/17 || 16.08 || 6.66
+|-
+| '''15.2''' || style="text-align:left"|{{flagicon|India}} {{sortname|1=Mohit|2=Sharma}} || style="text-align:left"|{{Cr-IPL|chen}} || 2013&#8211;2013 || 15 || 50.4 || 0 || 326 || 20 || {{ntsh|{{#expr:4+1/11}}}}3/10 || 16.30 || 6.43
+|-
+| '''15.5''' || style="text-align:left"|{{flagicon|Australia}} {{sortname|1=Doug|2=Bollinger}} || style="text-align:left"| || 2010&#8211;2012 || 27 || 96.0 || 3 || 693 || 37 || {{ntsh|{{#expr:5+1/14}}}}4/13 || 18.72 || 7.21
+|}
+<small> Minimum balls – 250</small>
+<div style="font-size:75%">[http://stats.cricinfo.com/ipl2009/engine/records/bowling/best_career_strike_rate.html?id=117;type=trophy Full Table on Cricinfo]</div>
+
+====Best averages====
+{| class="wikitable sortable" style="text-align:center"
+! {{ Tooltip | Ave | Average }} !! Player !! Current team !! Span !! {{ Tooltip | Mat | Matches }} !! {{Tooltip | Ov | Overs }} !!{{ Tooltip | Mdns | Maidens }} !! Runs !! {{ Tooltip | Wkts | Wickets }} !! {{ Tooltip | BBI | Best innings bowled }} !! {{ Tooltip | SR | Strike rate }} !! {{ Tooltip | Econ | Economy rate }}
+|-
+| '''14.65''' || style="text-align:left"|{{flagicon|West Indies}} {{sortname|1=Sunil|2=Narine}} || style="text-align:left"|{{Cr-IPL|kolk}} || 2012&#8211;2013 || 31 || 123.1 || 2 || 674 || 46 || {{ntsh|{{#expr:6+1/20}}}}5/19 || 16.0 || 5.47
+|-
+| '''15.87''' || style="text-align:left"|{{flagicon|Australia}} {{sortname|1=James|2=Faulkner|3=James Faulkner (cricketer)}} || style="text-align:left"|{{Cr-IPL|raja}} || 2011&#8211;2013 || 19 || 73.1 || 3 || 508 || 32 || {{ntsh|{{#expr:6+1/17}}}}5/16 || 13.7 || 6.94
+|-
+| '''16.08''' || style="text-align:left"|{{flagicon|Bangladesh}} {{sortname|1=Shakib Al|2=Hasan}} || style="text-align:left"|{{Cr-IPL|kolk}} || 2011&#8211;2012 || 15 || 55.3 || 0 || 370 || 23 || {{ntsh|{{#expr:4+1/18}}}}3/17 || 14.4 || 6.66
+|-
+| '''16.30''' || style="text-align:left"|{{flagicon|India}} {{sortname|1=Mohit|2=Sharma}} || style="text-align:left"|{{Cr-IPL|chen}} || 2013&#8211;2013 || 15 || 50.4 || 0 || 326 || 20 || {{ntsh|{{#expr:4+1/11}}}}3/10 || 15.2 || 6.43
+|-
+| '''17.95''' || style="text-align:left"|{{flagicon|Sri Lanka}} {{sortname|1=Lasith|2=Malinga}} || style="text-align:left"|{{Cr-IPL|mumb}} || 2009&#8211;2013 || 73 || 282.2 || 5 || 1849 || 103 || {{ntsh|{{#expr:6+1/14}}}}5/13 || 16.4 || 6.54
+|}
+
+<small> Minimum balls – 250</small>
+
+<div style="font-size:75%">[http://stats.cricinfo.com/ipl2009/engine/records/bowling/best_career_bowling_average.html?id=117;type=trophy Full Table on Cricinfo]</div>
+
+====Best economy rates====
+
+{| class="wikitable sortable" style="text-align:center"
+|-
+! {{Tooltip | Econ | Economy rate }} !! Player !! Current team !! Span !! {{Tooltip | Mat | Matches }} !! {{Tooltip | Ov | Overs }} !!{{Tooltip | Mdns | Maidens }} !! Runs !! {{Tooltip | Wkts | Wickets }} !! {{Tooltip | BBI | Best innings bowled }} !! {{Tooltip | SR | Strike rate }} !! {{Tooltip | Ave | Average }}
+|-
+| '''5.47''' || style="text-align:left"|{{flagicon|West Indies}} {{sortname|1=Sunil|2=Narine}} || style="text-align:left"|{{Cr-IPL|kolk}} || 2012&#8211;2013 || 31 || 123.1 || 2 || 674 || 46 || {{ntsh|{{#expr:6+1/20}}}}5/19 || 16.0 || 14.65
+|-
+| '''6.34''' || style="text-align:left"|{{flagicon|South Africa}} {{sortname|1=Dale|2=Steyn}} || style="text-align:left"|{{Cr-IPL|hyde}} || 2008&#8211;2013 || 69 || 266.0 || 7 || 1688 || 78 || {{ntsh|{{#expr:4+1/9}}}}3/8 || 20.4 || 21.64
+|-
+| '''6.34''' || style="text-align:left"|{{flagicon|India}} {{sortname|1=Ravichandran|2=Ashwin}} || style="text-align:left"|{{Cr-IPL|chen}} || 2009&#8211;2013 || 67 || 238.5 || 3 || 1515 || 64 || {{ntsh|{{#expr:4+1/17}}}}3/16 || 22.3 || 23.67
+|-
+| '''6.43''' || style="text-align:left"|{{flagicon|India}} {{sortname|1=Mohit|2=Sharma}} || style="text-align:left"|{{Cr-IPL|chen}} || 2013&#8211;2013 || 15 || 50.4 || 0 || 326 || 20 || {{ntsh|{{#expr:4+1/11}}}}3/10 || 15.2 || 16.30
+|-
+| '''6.54''' || style="text-align:left"|{{flagicon|Sri Lanka}} {{sortname|1=Lasith|2=Malinga}} || style="text-align:left"|{{Cr-IPL|mumb}} || 2009&#8211;2013 || 73 || 282.2 || 5 || 1849 || 103 || {{ntsh|{{#expr:6+1/14}}}}5/13 || 16.4 || 17.95
+|}
+
+<small> Minimum balls – 250</small>
+
+<div style="font-size:75%">[http://stats.cricinfo.com/ipl2009/engine/records/bowling/best_career_economy_rate.html?id=117;type=trophy Full Table on Cricinfo]</div>
+
+====Best bowling figures in an innings====
+
+{| class="wikitable sortable" style="text-align:center"
+|-
+! {{ Tooltip | BBI | Best innings bowling }} !! Player !! Team !! {{Tooltip | Ov | Overs }} !! {{ Tooltip | Mdns | Maidens }} !! {{tooltip|1=Econ|2=Economy rate}} !! Opponent !! Ground !! Date !! Scorecard
+|-
+| {{ntsh|{{#expr:7+1/15}}}}'''6 for 14''' || style="text-align:left"|{{flagicon|Pakistan}} {{sortname|1=Sohail|2=Tanvir|4=Sohail Tanvir}} || style="text-align:left"|{{Cr-IPL|raja}} || 4.0 || 0 || 3.50 || style="text-align:left"|{{Cr-IPL|chen}} || [[2008 Indian Premier League|2008]] || style="text-align:left"|<small>'''[[Jaipur]]''' – [[Sawai Mansingh Stadium]]</small> || <small>[http://www.espncricinfo.com/ipl2009/engine/match/336005.html 4 May 2008]</small>
+|-
+| {{ntsh|{{#expr:6+1/6}}}}'''5 for 5''' || style="text-align:left"|{{flagicon|India}} {{sortname|1=Anil|2=Kumble}} || style="text-align:left"|{{Cr-IPL|bang}} || 3.1 || 1 || 1.57 || style="text-align:left"|{{Cr-IPL|raja}} || [[2009 Indian Premier League|2009]] || style="text-align:left"|<small>'''[[Cape Town]]''' – [[Newlands Cricket Ground]]</small> || <small>[http://www.espncricinfo.com/ipl2009/engine/match/392182.html 18 April 2009]</small>
+|-
+| {{ntsh|{{#expr:6+1/13}}}}'''5 for 12''' || style="text-align:left"|{{flagicon|India}} {{sortname|1=Ishant|2=Sharma}} || style="text-align:left"|{{Cr-IPL|decc}} || 3.0 || 0 || 4.00 || style="text-align:left"|{{Cr-IPL|koch}} || [[2011 Indian Premier League|2011]] || style="text-align:left"|<small>'''[[Kochi]]''' – [[Jawaharlal Nehru Stadium, Kochi|Jawaharlal Nehru Stadium]]</small> || <small>[http://www.espncricinfo.com/ipl2009/engine/match/501229.html 27 April 2011]</small>
+|-
+| {{ntsh|{{#expr:6+1/14}}}}'''5 for 13''' || style="text-align:left"|{{flagicon|Sri Lanka}} {{sortname|1=Lasith|2=Malinga}} || style="text-align:left"|{{Cr-IPL|mumb}} || 3.4 || 1 || 3.54 || style="text-align:left"|{{Cr-IPL|delhi}} || [[2011 Indian Premier League|2011]] || style="text-align:left"|<small>'''[[Delhi]]''' – [[Feroz Shah Kotla]]</small> || <small>[http://www.espncricinfo.com/ipl2009/engine/match/501201.html 10 April 2011]</small>
+|-
+| {{ntsh|{{#expr:6+1/17}}}}'''5 for 16''' || style="text-align:left"|{{flagicon|Australia}} {{sortname|1=James|2=Faulkner|3=James Faulkner (cricketer)}} || style="text-align:left"|{{Cr-IPL|raja}} || 4.0 || 1 || 4.00 || style="text-align:left"|{{Cr-IPL|hyde}} || [[2013 Indian Premier League|2013]] || style="text-align:left"|<small>'''[[Hyderabad, India|Hyderabad]]''' – [[Rajiv Gandhi International Cricket Stadium]]</small> || <small>[http://www.espncricinfo.com/ipl2009/engine/match/598065.html 17 May 2013]</small>
+|}
+
+<div style="font-size:75%">[http://stats.cricinfo.com/ipl2009/engine/records/bowling/best_figures_innings.html?id=117;type=trophy Full Table on Cricinfo]</div>
+
+====Most runs conceded in an innings====
+
+{| class="wikitable sortable" style="text-align:center"
+|-
+! Runs !! Player !! Team !! {{Tooltip | Ov | Overs }} !! {{Tooltip | Mdns | Maidens }} !! {{Tooltip | Wkts | Wickets }} !! {{Tooltip | Econ | Economy rate }} !! Opponent !! Ground !! Date !! Scorecard
+|-
+| '''66''' || style="text-align:left"|{{flagicon|India}} {{sortname|1=Ishant|2=Sharma}} || style="text-align:left"|{{Cr-IPL|hyde}} || 4.0 || 0 || 0 || 16.50 || style="text-align:left"|{{Cr-IPL|chen}} || [[2013 Indian Premier League|2013]] || style="text-align:left"|<small>'''[[Hyderabad, India|Hyderabad]]''' – [[Rajiv Gandhi International Cricket Stadium]]</small> || <small>[http://www.espncricinfo.com/ipl2009/engine/match/598051.html 8 May 2013]</small>
+|-
+| '''65''' || style="text-align:left"|{{flagicon|India}} {{sortname|1=Umesh|2=Yadav}} || style="text-align:left"|{{Cr-IPL|delhi}} || 4.0 || 0 || 0 || 16.25 || style="text-align:left"|{{Cr-IPL|bang}} || [[2013 Indian Premier League|2013]] || style="text-align:left"|<small>'''[[Delhi]]''' – [[Feroz Shah Kotla]]</small> || <small>[http://www.espncricinfo.com/ipl2009/engine/match/598054.html 10 May 2013]</small>
+|-
+| '''63''' || style="text-align:left"|{{flagicon|India}} {{sortname|1=Ashok|2=Dinda}} || style="text-align:left"|{{Cr-IPL|pune}} || 4.0 || 0 || 0 || 15.75 || style="text-align:left"|{{Cr-IPL|mumb}} || [[2013 Indian Premier League|2013]] || style="text-align:left"|<small>'''[[Mumbai]]''' – [[Wankhede Stadium]]</small> || <small>[http://www.espncricinfo.com/ipl2009/engine/match/598011.html 13 April 2013]</small>
+|-
+| '''63''' || style="text-align:left"|{{flagicon|India}} {{sortname|1=Varun|2=Aaron}} || style="text-align:left"|{{Cr-IPL|delhi}} || 4.0 || 0 || 2 || 15.75 || style="text-align:left"|{{Cr-IPL|chen}} || [[2012 Indian Premier League|2012]] || style="text-align:left"|<small>'''[[Chennai]]''' – [[M. A. Chidambaram Stadium]]</small> || <small>[http://www.espncricinfo.com/ipl2009/engine/match/548380.html 25 May 2012]</small>
+|-
+| '''62''' || style="text-align:left"|{{flagicon|Australia}} {{sortname|1=Michael|2=Neser}} || style="text-align:left"|{{Cr-IPL|kings}} || 4.0 || 0 || 0 || 15.50 || style="text-align:left"|{{Cr-IPL|bang}} || [[2013 Indian Premier League|2013]] || style="text-align:left"|<small>'''[[Mohali]]''' – [[Punjab Cricket Association Stadium]]</small> || <small>[http://www.espncricinfo.com/ipl2009/engine/match/598064.html 6 May 2013]</small>
+|}
+
+<div style="font-size:75%">[http://stats.cricinfo.com/ipl2009/engine/records/bowling/most_runs_conceded_innings.html?id=117;type=trophy Full Table on Cricinfo]</div>
+
+====Most wickets in a series====
+
+{| class="wikitable sortable" style="text-align:center"
+|-
+! {{Tooltip | Wkts | Wickets }} !! Player !! Team !! Season !! {{Tooltip | Mat | Matches }} !! {{Tooltip | Ov | Overs }} !!{{Tooltip | Mdns | Maidens }} !! Runs !! {{Tooltip | Econ | Economy rate }} !! {{Tooltip | Ave | Average }} !! {{Tooltip | SR | Strike rate }} !! {{Tooltip | BBI | Best innings bowled }}
+|-
+| '''32''' || style="text-align:left"|{{flagicon|West Indies}} {{sortname|1=Dwayne|2=Bravo}} || style="text-align:left"|{{Cr-IPL|chen}} || [[2013 Indian Premier League|2013]] || 18 || 62.3 || 0 || 497 || 7.95 || 15.53 || 11.7 || {{ntsh|{{#expr:5+1/43}}}}4/42
+|-
+| '''28''' || style="text-align:left"|{{flagicon|Sri Lanka}} {{sortname|1=Lasith|2=Malinga}} || style="text-align:left"|{{Cr-IPL|mumb}} || [[2011 Indian Premier League|2011]] || 16 || 63.0 || 2 || 375 || 5.95 || 13.39 || 13.5 || {{ntsh|{{#expr:6+1/14}}}}5/13
+|-
+| '''28''' || style="text-align:left"|{{flagicon|Australia}} {{sortname|1=James|2=Faulkner|3=James Faulkner (cricketer)}} || style="text-align:left"|{{Cr-IPL|raja}} || [[2013 Indian Premier League|2013]] || 16 || 63.1 || 2 || 427 || 6.75 || 15.25 || 13.5 || {{ntsh|{{#expr:6+1/17}}}}5/16
+|-
+| '''25''' || style="text-align:left"|{{flagicon|South Africa}} {{sortname|1=Morné|2=Morkel|4=Morkel, Morne}} || style="text-align:left"|{{Cr-IPL|delhi}} || [[2012 Indian Premier League|2012]] || 16 || 63.0 || 1 || 453 || 7.19 || 18.12 || 15.1 || {{ntsh|{{#expr:5+1/21}}}}4/20
+|-
+| '''24''' || style="text-align:left"|{{flagicon|West Indies}} {{sortname|1=Sunil|2=Narine}} || style="text-align:left"|{{Cr-IPL|kolk}} || [[2012 Indian Premier League|2012]] || 15 || 59.1 || 1 || 324 || 5.47 || 13.50 || 14.7 || {{ntsh|{{#expr:6+1/20}}}}5/19
+|}
+<div style="font-size:75%">Note: ''Team'' refers to the team for which the player played in the season where the record was made, not the player&#39;s current team.</div>
+<div style="font-size:75%">[http://stats.cricinfo.com/ipl2009/engine/records/bowling/most_wickets_series.html?id=117;type=trophy Full Table on Cricinfo]</div>
+
+====List of hat-tricks====
+{| class="wikitable sortable" style="font-size:85%"
+|-
+! No. !! Season !! Bowler !!style="width:130px"| Batsmen !! For !! Against !! Ground !! Scorecard
+|-
+| '''1'''
+| [[2008 Indian Premier League|2008]]
+| {{flagicon|India}} [[Lakshmipathy Balaji]]
+|
+* {{flagicon|India}} [[Irfan Pathan]]
+* {{flagicon|India}} [[Piyush Chawla]]
+* {{flagicon|India}} [[VRV Singh]]
+| {{Cr-IPL|chen|R|R}}
+| {{Cr-IPL|kings|R|R}}
+| <small> '''[[Chennai]]''' – [[MA Chidambaram Stadium]] </small>
+| <small>[http://www.cricinfo.com/ipl2009/engine/match/336013.html 10 May 2008]</small>
+|-
+| '''2'''
+| [[2008 Indian Premier League|2008]]
+| {{flagicon|India}} [[Amit Mishra]]
+|
+* {{flagicon|India}} [[Dwaraka Ravi Teja]]
+* {{flagicon|India}} [[RP Singh]]
+* {{flagicon|India}} [[Pragyan Ojha]]
+| {{Cr-IPL|delhi|R|R}}
+| {{Cr-IPL|decc|R|R}}
+| <small> '''[[Delhi]]''' – [[Feroz Shah Kotla]] </small>
+| <small>[http://www.cricinfo.com/ipl2009/engine/match/336020.html 15 May 2008]</small>
+|-
+| '''3'''
+| [[2008 Indian Premier League|2008]]
+| {{flagicon|South Africa}} [[Makhaya Ntini]]
+|
+* {{flagicon|India}} [[Sourav Ganguly]]
+* {{flagicon|India}} [[Debabrata Das]]
+* {{flagicon|Australia}} [[David Hussey]]
+| {{Cr-IPL|chen|R|R}}
+| {{Cr-IPL|kolk|R|R}}
+| <small> '''[[Kolkata]]''' – [[Eden Gardens]] </small>
+| <small>[http://www.cricinfo.com/ipl2009/engine/match/336025.html 18 May 2008]</small>
+|-
+| '''4'''
+| [[2009 Indian Premier League|2009]]
+| {{flagicon|India}} [[Yuvraj Singh]]
+|
+* {{flagicon|India}} [[Robin Uthappa]]
+* {{flagicon|South Africa}} [[Mark Boucher]]
+* {{flagicon|South Africa}} [[Jacques Kallis]]
+| {{Cr-IPL|kings|R|R}}
+| {{Cr-IPL|bang|R|R}}
+| <small> '''[[Durban]]''' – [[Sahara Stadium Kingsmead|Kingsmead]] </small>
+| <small>[http://www.cricinfo.com/ipl2009/engine/match/392204.html 1 May 2009]</small>
+|-
+| '''5'''
+| [[2009 Indian Premier League|2009]]
+| {{flagicon|India}} [[Rohit Sharma]]
+|
+* {{flagicon|India}} [[Abhishek Nayar]]
+* {{flagicon|India}} [[Harbhajan Singh]]
+* {{flagicon|South Africa}} [[JP Duminy]]
+| {{Cr-IPL|decc|R|R}}
+| {{Cr-IPL|mumb|R|R}}
+| <small> '''[[Centurion, Gauteng|Centurion]]''' – [[Supersport Park]] </small>
+| <small>[http://www.cricinfo.com/ipl2009/engine/match/392212.html 6 May 2009]</small>
+|-
+| '''6'''
+| [[2009 Indian Premier League|2009]]
+| {{flagicon|India}} [[Yuvraj Singh]]
+|
+* {{flagicon|South Africa}} [[Herschelle Gibbs]]
+* {{flagicon|Australia}} [[Andrew Symonds]]
+* {{flagicon|India}} [[Yalaka Venugopal Rao|Venugopal Rao]]
+| {{Cr-IPL|kings|R|R}}
+| {{Cr-IPL|decc|R|R}}
+| <small> '''[[Johannesburg]]''' – [[Wanderers Stadium]] </small>
+| <small>[http://www.cricinfo.com/ipl2009/engine/match/392229.html 17 May 2009]</small>
+|-
+| '''7'''
+| [[2010 Indian Premier League|2010]]
+| {{flagicon|India}} [[Praveen Kumar]]
+|
+* {{flagicon|Australia}} [[Damien Martyn]]
+* {{flagicon|India}} [[Sumit Narwal]]
+* {{flagicon|India}} [[Paras Dogra]]
+| {{Cr-IPL|bang|R|R}}
+| {{Cr-IPL|raja|R|R}}
+| <small> '''[[Bangalore]]''' – [[M Chinnaswamy Stadium]] </small>
+| <small>[http://www.cricinfo.com/ipl2010/engine/match/419115.html 18 March 2010]</small>
+|-
+| '''8'''
+| [[2011 Indian Premier League|2011]]
+| {{flagicon|India}} [[Amit Mishra]]
+|
+* {{flagicon|South Africa}} [[Ryan McLaren]]
+* {{flagicon|India}} [[Mandeep Singh]]
+* {{flagicon|Australia}} [[Ryan Harris (cricketer)|Ryan Harris]]
+| {{Cr-IPL|decc|R|R}}
+| {{Cr-IPL|kings|R|R}}
+| <small> '''[[Dharamsala, Himachal Pradesh|Dharamsala]]''' – [[HPCA Stadium]] </small>
+| <small>[http://www.espncricinfo.com/indian-premier-league-2011/engine/match/501264.html 21 May 2011]</small>
+|-
+| '''9'''
+| [[2012 Indian Premier League|2012]]
+| {{flagicon|India}} [[Ajit Chandila]]
+|
+* {{flagicon|New Zealand}} [[Jesse Ryder]]
+* {{flagicon|India}} [[Sourav Ganguly]]
+* {{flagicon|India}} [[Robin Uthappa]]
+| {{Cr-IPL|raja|R|R}}
+| {{Cr-IPL|pune|R|R}}
+| <small> '''[[Jaipur]]''' – [[Sawai Mansingh Stadium]] </small>
+| <small>[http://www.espncricinfo.com/indian-premier-league-2012/engine/match/548365.html 13 May 2012]</small>
+|-
+| '''10'''
+| [[2013 Indian Premier League|2013]]
+| {{flagicon|Trinidad and Tobago}} [[Sunil Narine]]
+|
+* {{flagicon|Australia}} [[David Hussey]]
+* {{flagicon|England}} [[Azhar Mahmood]]
+* {{flagicon|India}} [[Gurkeerat Singh]]
+| {{Cr-IPL|Kolk|R|R}}
+| {{Cr-IPL|Kings|R|R}}
+| <small> '''[[Mohali]]''' – [[Punjab Cricket Association Stadium]] </small>
+| <small>[http://www.espncricinfo.com/indian-premier-league-2013/engine/current/match/598016.html 16 April 2013]</small>
+|-
+| '''11'''
+| [[2013 Indian Premier League|2013]]
+| {{flagicon|India}} [[Amit Mishra]]
+|
+* {{flagicon|India}} [[Bhuvneshwar Kumar]]
+* {{flagicon|India}} [[Rahul Sharma (Indian cricketer)|Rahul Sharma]]
+* {{flagicon|India}} [[Ashok Dinda]]
+| {{Cr-IPL|hyde|R|R}}
+| {{Cr-IPL|pune|R|R}}
+| <small> '''[[Pune]]''' – [[Subrata Roy Sahara Stadium]] </small>
+| <small>[http://www.espncricinfo.com/indian-premier-league-2013/engine/match/598018.html 17 April 2013]</small>
+|}
+
+===Wicketkeeping and fielding records===
+
+====Most dismissals====
+
+{| class="wikitable sortable" style="text-align:center"
+|-
+! Dismissals !! Player !! Current Team !! Span !! {{Tooltip | Mat | Matches }} !! {{Tooltip | Inns | Innings }} !! Catches !! Stumpings !! Max./Inn !! Av./Inn.
+|-
+| '''67''' || style="text-align:left"|{{flagicon|Australia}} {{sortname|1=Adam|2=Gilchrist}} || style="text-align:left"|{{Cr-IPL|kings}} || 2008&#8211;2013 || 80 || 80 || 51 || 16 || 4 || 0.837
+|-
+| '''62''' || style="text-align:left"|{{flagicon|India}} {{sortname|1=Mahendra Singh|2=Dhoni}} || style="text-align:left"|{{Cr-IPL|chen}} || 2008&#8211;2013 || 96 || 89 || 43 || 19 || 4 || 0.696
+|-
+| '''58''' || style="text-align:left"|{{flagicon|India}} {{sortname|1=Dinesh|2=Karthik}} || style="text-align:left"|{{Cr-IPL|mumb}} || 2008&#8211;2013 || 92 || 78 || 41 || 17 || 4 || 0.743
+|-
+| '''43''' || style="text-align:left"|{{flagicon|Sri Lanka}} {{sortname|1=Kumar|2=Sangakkara}} || style="text-align:left"|{{Cr-IPL|hyde}} || 2008&#8211;2013 || 71 || 51 || 34 || 9 || 5 || 0.843
+|-
+| '''41''' || style="text-align:left"|{{flagicon|India}} {{sortname|1=Robin|2=Uthappa}} || style="text-align:left"|{{Cr-IPL|pune}} || 2008&#8211;2013 || 91 || 57 || 31 || 10 || 4 || 0.719
+|}
+<small>Figures exclude catches not taken as wicketkeeper</small>
+<div style="font-size:75%">[http://stats.cricinfo.com/ipl2009/engine/records/keeping/most_dismissals_career.html?id=117;type=trophy Full Table on Cricinfo]</div>
+
+====Most catches (non-keeper)====
+
+{| class="wikitable sortable" style="text-align:center"
+|-
+! Catches !! Player !! Current Team !! Span !! {{Tooltip | Mat | Matches }} !! {{tooltip|1=Inns|2=Innings}} !! Max. !! Av./In
+|-
+| '''52''' || style="text-align:left"|{{flagicon|India}} {{sortname|1=Suresh|2=Raina}} || style="text-align:left"|{{Cr-IPL|chen}} || 2008&#8211;2013 || 99 || 98 || 3 || 0.530
+|-
+| '''49''' || style="text-align:left"|{{flagicon|India}} {{sortname|1=Rohit|2=Sharma}} || style="text-align:left"|{{Cr-IPL|mumb}} || 2008&#8211;2013 || 97 || 97 || 3 || 0.505
+|-
+| '''41''' || style="text-align:left"|{{flagicon|West Indies}} {{sortname|1=Dwayne|2=Bravo}} || style="text-align:left"|{{Cr-IPL|chen}} || 2008&#8211;2013 || 73 || 72 || 3 || 0.569
+|-
+| '''35''' || style="text-align:left"|{{flagicon|India}} {{sortname|1=Virat|2=Kohli}} || style="text-align:left"|{{Cr-IPL|bang}} || 2008&#8211;2013 || 93 || 92 || 2 || 0.380
+|-
+| '''34''' || style="text-align:left"|{{flagicon|West Indies}} {{sortname|1=Kieron|2=Pollard}} || style="text-align:left"|{{Cr-IPL|mumb}} || 2010&#8211;2013 || 62 || 62 || 2 || 0.548
+|}
+<small>Non-keeper catches only included (although ''Matches'' figure refers to all matches played)</small>
+<div style="font-size:75%">[http://stats.cricinfo.com/ipl2009/engine/records/fielding/most_catches_career.html?id=117;type=trophy Full Table on Cricinfo]</div>
+
+====Most dismissals in an innings====
+
+{| class="wikitable sortable" style="text-align:center"
+|-
+! Dismissals !! Player !! Team !! {{Tooltip | Inns | Innings }} !! Opponent !! Cts. !! Sts. !! Ground !! Date !! Scorecard
+|-
+| '''5''' || style="text-align:left"|{{flagicon|Sri Lanka}} {{sortname|1=Kumar|2=Sangakkara}} || style="text-align:left"|{{Cr-IPL|decc}} || 2 || style="text-align:left"|{{Cr-IPL|bang}} || 5 || 0 || [[2011 Indian Premier League|2011]] || style="text-align:left"|<small>'''[[Hyderabad, India|Hyderabad]]''' – [[Rajiv Gandhi International Cricket Stadium]]</small> || <small>[http://www.espncricinfo.com/ipl2009/engine/match/501208.html 14 April 2011]</small>
+|-
+| '''4''' || style="text-align:left"|{{flagicon|India}} {{sortname|1=Mahendra Singh|2=Dhoni}} || style="text-align:left"|{{Cr-IPL|chen}} || 1 || style="text-align:left"|{{Cr-IPL|bang}} || 3 || 1 || [[2013 Indian Premier League|2013]] || style="text-align:left"|<small>'''[[Chennai]]''' – [[M. A. Chidambaram Stadium]]</small> || <small>[http://www.espncricinfo.com/ipl2009/engine/match/598012.html 13 April 2013]</small>
+|-
+| '''4''' || style="text-align:left"|{{flagicon|Australia}} {{sortname|1=Adam|2=Gilchrist}} || style="text-align:left"|{{Cr-IPL|kings}} || 1 || style="text-align:left"|{{Cr-IPL|chen}} || 4 || 0 || [[2012 Indian Premier League|2012]] || style="text-align:left"|<small>'''[[Dharamsala, Himachal Pradesh|Dharamsala]]''' – [[HPCA Cricket Stadium]]</small> || <small>[http://www.espncricinfo.com/ipl2009/engine/match/548371.html 17 May 2012]</small>
+|-
+| '''4''' || style="text-align:left"|{{flagicon|India}} {{sortname|1=Dinesh|2=Karthik}} || style="text-align:left"|{{Cr-IPL|delhi}} || 2 || style="text-align:left"|{{Cr-IPL|raja}} || 2 || 2 || [[2009 Indian Premier League|2009]] || style="text-align:left"|<small>'''[[Bloemfontein]]''' – [[Chevrolet Park|OUTsurance Oval]]</small> || <small>[http://www.espncricinfo.com/ipl2009/engine/match/392230.html 17 May 2009]</small>
+|-
+| '''4''' || style="text-align:left"|{{flagicon|New Zealand}} {{sortname|1=Brendon|2=McCullum}} || style="text-align:left"|{{Cr-IPL|kolk}} || 2 || style="text-align:left"|{{Cr-IPL|delhi}} || 2 || 2 || [[2012 Indian Premier League|2012]] || style="text-align:left"|<small>'''[[Pune]]''' – [[Subrata Roy Sahara Stadium]]</small> || <small>[http://www.espncricinfo.com/ipl2009/engine/match/548378.html 22 May 2012]</small>
+|}
+
+<div style="font-size:75%">[http://stats.cricinfo.com/ipl2009/engine/records/keeping/most_dismissals_innings.html?id=117;type=trophy Full Table on Cricinfo]</div>
+
+====Most catches in an innings (non-keeper)====
+
+{| class="wikitable sortable" style="text-align:center"
+|-
+! Catches !! Player !! Team !! {{Tooltip | Inns | Innings }} !! Opponent !! Ground !! Date !! Scorecard
+|-
+| '''4''' || style="text-align:left"|{{flagicon|South Africa}} {{sortname|1=Jacques|2=Kallis}} || style="text-align:left"|{{Cr-IPL|kolk}} || 2 || style="text-align:left"|{{Cr-IPL|decc}} || [[2011 Indian Premier League|2011]] || style="text-align:left"|<small>'''[[Kolkata]]''' – [[Eden Gardens]]</small> || <small>[http://www.espncricinfo.com/ipl2009/engine/match/501203.html 11 April 2011]</small>
+|-
+| '''4''' || style="text-align:left"|{{flagicon|India}} {{sortname|1=Sachin|2=Tendulkar}} || style="text-align:left"|{{Cr-IPL|mumb}} || 1 || style="text-align:left"|{{Cr-IPL|kolk}} || [[2008 Indian Premier League|2008]] || style="text-align:left"|<small>'''[[Mumbai]]''' – [[Wankhede Stadium]]</small> || <small>[http://www.espncricinfo.com/ipl2009/engine/match/336021.html 16 May 2008]</small>
+|-
+| '''4''' || style="text-align:left"|{{flagicon|Australia}} {{sortname|1=David|2=Warner|3=David Warner (cricketer)}} || style="text-align:left"|{{Cr-IPL|delhi}} || 2 || style="text-align:left"|{{Cr-IPL|raja}} || [[2010 Indian Premier League|2010]] || style="text-align:left"|<small>'''[[Delhi]]''' – [[Feroz Shah Kotla]]</small> || <small>[http://www.espncricinfo.com/ipl2009/engine/match/419134.html 31 March 2010]</small>
+|-
+| '''3''' || style="text-align:left"|{{flagicon|India}} {{sortname|1=Anirudha|2=Srikkanth|4=Anirudha Srikkanth}} || style="text-align:left"|{{Cr-IPL|chen}} || 2 || style="text-align:left"|{{Cr-IPL|bang}} || [[2011 Indian Premier League|2011]] || style="text-align:left"|<small>'''[[Chennai]]''' – [[M. A. Chidambaram Stadium]]</small> || <small>[http://www.espncricinfo.com/ipl2009/engine/match/501211.html 16 April 2011]</small>
+|-
+| '''3''' || style="text-align:left"|{{flagicon|Australia}} {{sortname|1=Aiden|2=Blizzard}} || style="text-align:left"|{{Cr-IPL|mumb}} || 1 || style="text-align:left"|{{Cr-IPL|kings}} || [[2011 Indian Premier League|2011]] || style="text-align:left"|<small>'''[[Mohali]]''' – [[Punjab Cricket Association Stadium]]</small> || <small>[http://www.espncricinfo.com/ipl2009/engine/match/501251.html 10 May 2011]</small>
+|}
+
+<div style="font-size:75%">[http://stats.cricinfo.com/ipl2009/engine/records/fielding/most_catches_innings.html?id=117;type=trophy Full Table on Cricinfo]</div>
+
+====Most dismissals in a series====
+
+{| class="wikitable sortable" style="text-align:center"
+|-
+! Dismissals !! Player !! Team !! Season !! {{Tooltip | Mat | Matches }} !! Cts. !! Sts. !! Max. !! Av. / Innings
+|-
+| '''19''' || style="text-align:left"|{{flagicon|Sri Lanka}} {{sortname|1=Kumar|2=Sangakkara}} || style="text-align:left"|{{Cr-IPL|decc}} || [[2011 Indian Premier League|2011]] || 13 || 17 || 2 || 5 || 1.461
+|-
+| '''18''' || style="text-align:left"|{{flagicon|Australia}} {{sortname|1=Adam|2=Gilchrist}} || style="text-align:left"|{{Cr-IPL|decc}} || [[2009 Indian Premier League|2009]] || 16 || 10 || 8 || 3 || 1.125
+|-
+| '''17''' || style="text-align:left"|{{flagicon|India}} {{sortname|1=Dinesh|2=Karthik}} || style="text-align:left"|{{Cr-IPL|delhi}} || [[2009 Indian Premier League|2009]] || 15 || 12 || 5 || 4 || 1.133
+|-
+| '''17''' || style="text-align:left"|{{flagicon|India}} {{sortname|1=Mahendra Singh|2=Dhoni}} || style="text-align:left"|{{Cr-IPL|chen}} || [[2013 Indian Premier League|2013]] || 18 || 15 || 2 || 4 || 0.944
+|-
+| '''16''' || style="text-align:left"|{{flagicon|India}} {{sortname|1=Naman|2=Ojha}} || style="text-align:left"|{{Cr-IPL|delhi}} || [[2012 Indian Premier League|2012]] || 18 || 14 || 2 || 3 || 0.888
+|}
+<div style="font-size:75%">Note: ''Team'' refers to the team for which the player played in the season where the record was made, not the player&#39;s current team.</div>
+<div style="font-size:75%">[http://stats.cricinfo.com/ipl2009/engine/records/keeping/most_dismissals_series.html?id=117;type=trophy Full Table on Cricinfo]</div>
+
+====Most catches in a series (non-keeper)====
+
+{| class="wikitable sortable" style="text-align:center"
+|-
+! Catches !! Player !! Team !! Season !! {{Tooltip | Mat | Matches }} !! Max. !! Av. / Innings
+|-
+| '''14''' || style="text-align:left"|{{flagicon|West Indies}} {{sortname|1=Dwayne|2=Bravo}} || style="text-align:left"|{{Cr-IPL|chen}} || [[2013 Indian Premier League|2013]] || 18 || 3 || 0.777
+|-
+| '''13''' || style="text-align:left"|{{flagicon|South Africa}} {{sortname|1=AB|2=de Villiers|4=Villiers, Abraham}} || style="text-align:left"|{{Cr-IPL|delhi}} || [[2009 Indian Premier League|2009]] || 15 || 3 || 0.866
+|-
+| '''13''' || style="text-align:left"|{{flagicon|India}} {{sortname|1=Rohit|2=Sharma}} || style="text-align:left"|{{Cr-IPL|mumb}} || [[2012 Indian Premier League|2012]] || 17 || 3 || 0.764
+|-
+| '''12''' || style="text-align:left"|{{flagicon|Australia}} {{sortname|1=Andrew|2=Symonds}} || style="text-align:left"|{{Cr-IPL|decc}} || [[2010 Indian Premier League|2010]] || 16 || 2 || 0.750
+|-
+| '''12''' || style="text-align:left"|{{flagicon|West Indies}} {{sortname|1=Kieron|2=Pollard}} || style="text-align:left"|{{Cr-IPL|mumb}} || [[2013 Indian Premier League|2013]] || 18 || 2 || 0.666
+|}
+<small>Non-keeper catches only included (although ''Matches'' figure refers to all matches played)</small>
+<div style="font-size:75%">Note: ''Team'' refers to the team for which the player played in the season where the record was made, not the player&#39;s current team.</div>
+<div style="font-size:75%">[http://stats.espncricinfo.com/indian-premier-league-2011/engine/records/fielding/most_catches_series.html?id=117;type=trophy Full Table on Cricinfo]</div>
+
+===Man of the Match awards===
+{| class="wikitable sortable" style="text-align:center"
+|-
+! Awards !! Player !! Current Team !! {{Tooltip | Mat | Matches }} !! 2008 !! 2009 !! 2010 !! 2011 !! 2012 !! 2013
+|-
+|'''15''' || align=left|{{flagicon| Jamaica }} [[Chris Gayle]] || {{Cr-IPL|bang}} || 59 || 0 || 1 || 0 || 6 || 5 || 3
+|-
+|'''13''' || align=left|{{flagicon| India }} [[Yusuf Pathan]]  || {{Cr-IPL|kolk}} || 91 || 4 || 3 || 2 || 2 || 1 || 1
+|-
+|'''10''' || align=left|{{flagicon|Australia}} [[Michael Hussey]]  || {{Cr-IPL|chen}} || 45 || 1 || 0 || 0 || 3 || 1 || 5
+|-
+|'''10''' || align=left|{{flagicon|India}} [[Virender Sehwag]]  || {{Cr-IPL|delhi}} || 79 || 2 || 1 || 1 || 2 || 3 || 1
+|-
+|'''10''' || align=left|{{flagicon|India}} [[Mahendra Singh Dhoni]]  || {{Cr-IPL|chen}} || 95 || 2 || 1 || 2 || 1 || 1 || 3
+|}
+
+==Partnership records==
+
+===Highest partnerships by wicket===
+{| class="wikitable sortable" style="text-align:center"
+|-
+! Wicket !! Runs !! Batsmen !! Team !! Opponent !! Ground !! Date !! Scorecard
+|-
+| '''{{nts|1}}st''' || '''{{nts|167}}''' || style="text-align:left"|
+* {{flagicon|West Indies}} {{sortname|1=Chris|2=Gayle}}
+* {{flagicon|Sri Lanka}} {{sortname|1=Tillakaratne|2=Dilshan}}
+| style="text-align:left"|{{Cr-IPL|bang}} || style="text-align:left"|{{Cr-IPL|pune}} || [[2013 Indian Premier League|2013]] || style="text-align:left"|<small>'''[[Bangalore]]''' – [[M. Chinnaswamy Stadium]]</small> || <small>[http://www.espncricinfo.com/ipl2010/engine/match/598027.html 23 April 2013]</small>
+|-
+| '''{{nts|2}}nd''' || '''{{nts|206}}''' || style="text-align:left"|
+* {{flagicon|Australia}} {{sortname|1=Adam|2=Gilchrist}}
+* {{flagicon|Australia}} {{sortname|1=Shaun|2=Marsh}}
+| style="text-align:left"|{{Cr-IPL|kings}} || style="text-align:left"|{{Cr-IPL|bang}} || [[2011 Indian Premier League|2011]] || style="text-align:left"|<small>'''[[Dharamsala, Himachal Pradesh|Dharamsala]]''' – [[HPCA Cricket Stadium]]</small> || <small>[http://www.espncricinfo.com/ipl2010/engine/match/501260.html 17 May 2011]</small>
+|-
+| '''{{nts|3}}rd''' || '''{{nts|157}}''' || style="text-align:left"|
+* {{flagicon|Australia}} {{sortname|1=Cameron|2=White}}
+* {{flagicon|Sri Lanka}} {{sortname|1=Kumar|2=Sangakkara}}
+| style="text-align:left"|{{Cr-IPL|decc}} || style="text-align:left"|{{Cr-IPL|pune}} || [[2012 Indian Premier League|2012]] || style="text-align:left"|<small>'''[[Cuttack]]''' – [[Barabati Stadium]]</small> || <small>[http://www.espncricinfo.com/ipl2010/engine/match/548348.html 1 May 2012]</small>
+|-
+| '''{{nts|4}}th''' || '''{{nts|131}}''' || style="text-align:left"|
+* {{flagicon|West Indies}} {{sortname|1=Chris|2=Gayle}}
+* {{flagicon|South Africa}} {{sortname|1=AB|2=de Villiers|4=Villiers, Abraham}}
+| style="text-align:left"|{{Cr-IPL|bang}} || style="text-align:left"|{{Cr-IPL|kings}} || [[2012 Indian Premier League|2012]] || style="text-align:left"|<small>'''[[Mohali]]''' – [[Punjab Cricket Association Stadium]]</small> || <small>[http://www.espncricinfo.com/ipl2010/engine/match/548331.html 20 April 2012]</small>
+|-
+| '''{{nts|5}}th''' || '''{{nts|130}}*''' || style="text-align:left"|
+* {{flagicon|England}} {{sortname|1=Owais|2=Shah}}
+* {{flagicon|Sri Lanka}} {{sortname|1=Angelo|2=Mathews}}
+| style="text-align:left"|{{Cr-IPL|kolk}} || style="text-align:left"|{{Cr-IPL|decc}} || [[2010 Indian Premier League|2010]] || style="text-align:left"|<small>'''[[Navi Mumbai]]''' – [[DY Patil Stadium]]</small> || <small>[http://www.espncricinfo.com/ipl2010/engine/match/419106.html 12 March 2010]</small>
+|-
+| '''{{nts|5}}th''' || '''{{nts|130}}*''' || style="text-align:left"|
+* {{flagicon|South Africa}} {{sortname|1=David|2=Miller|3=David Miller (cricketer)}}
+* {{flagicon|India}} {{sortname|1=Rajagopal|2=Sathish}}
+| style="text-align:left"|{{Cr-IPL|kings}} || style="text-align:left"|{{Cr-IPL|bang}} || [[2013 Indian Premier League|2013]] || style="text-align:left"|<small>'''[[Mohali]]''' – [[Punjab Cricket Association Stadium]]</small> || <small>[http://www.espncricinfo.com/ipl2010/engine/match/598064.html 6 May 2013]</small>
+|-
+| '''{{nts|6}}th''' || '''{{nts|122}}*''' || style="text-align:left"|
+* {{flagicon|India}} {{sortname|1=Ambati|2=Rayudu}}
+* {{flagicon|West Indies}} {{sortname|1=Kieron|2=Pollard}}
+| style="text-align:left"|{{Cr-IPL|mumb}} || style="text-align:left"|{{Cr-IPL|bang}} || [[2012 Indian Premier League|2012]] || style="text-align:left"|<small>'''[[Bangalore]]''' – [[M. Chinnaswamy Stadium]]</small> || <small>[http://www.espncricinfo.com/ipl2010/engine/match/548367.html 14 May 2012]</small>
+|-
+| '''{{nts|7}}th''' || '''{{nts|65}}*''' || style="text-align:left"|
+* {{flagicon|West Indies}} {{sortname|1=Kieron|2=Pollard}}
+* {{flagicon|India}} {{sortname|1=Harbhajan|2=Singh|4=Harbhajan Singh}}
+| style="text-align:left"|{{Cr-IPL|mumb}} || style="text-align:left"|{{Cr-IPL|chen}} || [[2013 Indian Premier League|2013]] || style="text-align:left"|<small>'''[[Chennai]]''' – [[M. A. Chidambaram Stadium]]</small> || <small>[http://www.espncricinfo.com/ipl2010/engine/match/598002.html 6 April 2013]</small>
+|-
+| '''{{nts|8}}th''' || '''{{nts|53}}*''' || style="text-align:left"|
+* {{flagicon|South Africa}} {{sortname|1=Ryan|2=McLaren}}
+* {{flagicon|India}} {{sortname|1=Harbhajan|2=Singh|4=Harbhajan Singh}}
+| style="text-align:left"|{{Cr-IPL|mumb}} || style="text-align:left"|{{Cr-IPL|decc}} || [[2010 Indian Premier League|2010]] || style="text-align:left"|<small>'''[[Navi Mumbai]]''' – [[DY Patil Stadium]]</small> || <small>[http://www.espncricinfo.com/ipl2010/engine/match/419130.html 28 March 2010]</small>
+|-
+| '''{{nts|9}}th''' || '''{{nts|41}}''' || style="text-align:left"|
+* {{flagicon|India}} {{sortname|1=Mahendra Singh|2=Dhoni}}
+* {{flagicon|India}} {{sortname|1=Ravichandran|2=Ashwin}}
+| style="text-align:left"|{{Cr-IPL|chen}} || style="text-align:left"|{{Cr-IPL|mumb}} || [[2013 Indian Premier League|2013]] || style="text-align:left"|<small>'''[[Kolkata]]''' – [[Eden Gardens]]</small> || <small>[http://www.espncricinfo.com/ipl2010/engine/match/598073.html 26 May 2013]</small>
+|-
+| '''{{nts|10}}th''' || '''{{nts|29}}*''' || style="text-align:left"|
+* {{flagicon|India}} {{sortname|1=Siddharth|2=Trivedi}}
+* {{flagicon|India}} {{sortname|1=Munaf|2=Patel}}
+| style="text-align:left"|{{Cr-IPL|raja}} || style="text-align:left"|{{Cr-IPL|delhi}} || [[2009 Indian Premier League|2009]] || style="text-align:left"|<small>'''[[Bloemfontein]]''' – [[Chevrolet Park|OUTsurance Oval]]</small> || <small>[http://www.espncricinfo.com/ipl2010/engine/match/392230.html 17 May 2009]</small>
+|}
+
+<div style="font-size:75%">[http://stats.espncricinfo.com/ipl2010/engine/records/fow/highest_partnerships_by_wicket.html?id=117;type=trophy Full Table on Cricinfo]</div>
+
+===Highest partnerships by runs===
+{| class="wikitable sortable" style="text-align:center"
+|-
+! Runs !! Wicket !!style="width:185px"| Batsmen !! Team !! Opponent !! Ground !! Date !! Scorecard
+|-
+| '''{{nts|206}}''' || '''{{nts|2}}nd''' || style="text-align:left"|
+* {{flagicon|Australia}} {{sortname|1=Adam|2=Gilchrist}}
+* {{flagicon|Australia}} {{sortname|1=Shaun|2=Marsh}}
+| style="text-align:left"|{{Cr-IPL|kings}} || style="text-align:left"|{{Cr-IPL|bang}} || [[2011 Indian Premier League|2011]] || style="text-align:left"|<small>'''[[Dharamsala, Himachal Pradesh|Dharamsala]]''' – [[HPCA Cricket Stadium]]</small> || <small>[http://www.espncricinfo.com/ipl2009/engine/match/501260.html 17 May 2011]</small>
+|-
+| '''{{nts|204}}*''' || '''{{nts|2}}nd''' || style="text-align:left"|
+* {{flagicon|West Indies}} {{sortname|1=Chris|2=Gayle}}
+* {{flagicon|India}} {{sortname|1=Virat|2=Kohli}}
+| style="text-align:left"|{{Cr-IPL|bang}} || style="text-align:left"|{{Cr-IPL|delhi}} || [[2012 Indian Premier League|2012]] || style="text-align:left"|<small>'''[[Delhi]]''' – [[Feroz Shah Kotla]]</small> || <small>[http://www.espncricinfo.com/ipl2009/engine/match/548372.html 17 May 2012]</small>
+|-
+| '''{{nts|189}}*''' || '''{{nts|2}}nd''' || style="text-align:left"|
+* {{flagicon|Australia}} {{sortname|1=David|2=Warner|3=David Warner (cricketer)}}
+* {{flagicon|India}} {{sortname|1=Naman|2=Ojha}}
+| style="text-align:left"|{{Cr-IPL|delhi}} || style="text-align:left"|{{Cr-IPL|decc}} || [[2012 Indian Premier League|2012]] || style="text-align:left"|<small>'''[[Hyderabad, India|Hyderabad]]''' – [[Rajiv Gandhi International Cricket Stadium]]</small> || <small>[http://www.espncricinfo.com/ipl2009/engine/match/548329.html 10 May 2012]</small>
+|-
+| '''{{nts|167}}''' || '''{{nts|1}}st''' || style="text-align:left"|
+* {{flagicon|West Indies}} {{sortname|1=Chris|2=Gayle}}
+* {{flagicon|Sri Lanka}} {{sortname|1=Tillakaratne|2=Dilshan}}
+| style="text-align:left"|{{Cr-IPL|bang}} || style="text-align:left"|{{Cr-IPL|pune}} || [[2013 Indian Premier League|2013]] || style="text-align:left"|<small>'''[[Bangalore]]''' – [[M. Chinnaswamy Stadium]]</small> || <small>[http://www.espncricinfo.com/ipl2009/engine/match/598027.html 23 April 2013]</small>
+|-
+| '''{{nts|167}}*''' || '''{{nts|2}}nd''' || style="text-align:left"|
+* {{flagicon|South Africa}} {{sortname|1=Herschelle|2=Gibbs}}
+* {{flagicon|India}} {{sortname|1=Rohit|2=Sharma}}
+| style="text-align:left"|{{Cr-IPL|mumb}} || style="text-align:left"|{{Cr-IPL|kolk}} || [[2012 Indian Premier League|2012]] || style="text-align:left"|<small>'''[[Kolkata]]''' – [[Eden Gardens]]</small> || <small>[http://www.espncricinfo.com/ipl2009/engine/match/548363.html 12 May 2012]</small>
+|}
+
+<div style="font-size:75%">[http://stats.cricinfo.com/ipl2009/engine/records/fow/highest_partnerships_for_any_wicket.html?id=117;type=trophy Full Table on Cricinfo]</div>
+
+==Miscellaneous records==
+
+===Most matches===
+
+{| class="wikitable sortable" style=" text-align:center;"
+|-
+!rowspan=2| {{Tooltip | Mat | Matches }} !!rowspan=2| Player !!rowspan=2| Current team !!rowspan=2| Span  !!colspan=2| Batting !!colspan=2| Bowling !!rowspan=2| {{Tooltip | Cts.+sts. | Catches and stumpings }}
+|-
+! {{Tooltip | Runs | Runs scored }} !! {{Tooltip | Ave | Average }} !! {{Tooltip | Wkts | Wickets }} !! {{Tooltip | Ave | Average }}
+|-
+| '''99''' || style="text-align:left"|{{flagicon|India}} {{sortname|1=Suresh|2=Raina}} || style="text-align:left"|{{Cr-IPL|chen}} || 2008&#8211;2013 || 2802 || 35.02 || 21 || 33.38 || 52
+|-
+| '''97''' || style="text-align:left"|{{flagicon|India}} {{sortname|1=Rohit|2=Sharma}} || style="text-align:left"|{{Cr-IPL|mumb}} || 2008&#8211;2013 || 2513 || 32.63 || 14 || 29.57 || 49
+|-
+| '''96''' || style="text-align:left"|{{flagicon|India}} {{sortname|1=Mahendra Singh|2=Dhoni}} || style="text-align:left"|{{Cr-IPL|chen}} || 2008&#8211;2013 || 2243 || 38.01 || - || - || 66
+|-
+| '''95''' || style="text-align:left"|{{flagicon|India}} {{sortname|1=Subramaniam|2=Badrinath}} || style="text-align:left"|{{Cr-IPL|chen}} || 2008&#8211;2013 || 1441 || 30.65 || - || - || 16
+|-
+| '''93''' || style="text-align:left"|{{flagicon|India}} {{sortname|1=Virat|2=Kohli}} || style="text-align:left"|{{Cr-IPL|bang}} || 2008&#8211;2013 || 2273 || 31.56 || 4 || 86.25 || 35
+|}
+
+<div style="font-size:75%">[http://stats.cricinfo.com/ipl2009/engine/records/individual/most_matches_career.html?id=117;type=trophy Full Table on Cricinfo]</div>
+
+===Most extras conceded in an innings===
+
+{| class="wikitable sortable" style=" text-align:center;"
+|-
+! Extras !! Bowling team !! Score !! {{Tooltip | Ov | Overs }} !! style="width:23px"|{{Tooltip | B | Byes }} !! style="width:23px"|{{Tooltip | LB | Leg byes }} !! style="width:23px"|{{Tooltip | W | Wides }} !! style="width:23px"|{{Tooltip | NB | No balls }} !! Batting team !! Ground !! Scorecard
+|-
+| '''28''' || style="text-align:left"|{{Cr-IPL|decc}} || {{ntsh|{{#expr:113+1/6}}}}'''112/5''' || 19.0 || 4 || 8 || 15 || 1 || style="text-align:left"|{{Cr-IPL|kolk}} || style="text-align:left"|<small>'''[[Kolkata]]''' – [[Eden Gardens]]</small> || <small>[http://www.espncricinfo.com/indian-premier-league-2013/engine/match/335986.html 20 April 2008]</small>
+|-
+| '''27''' || style="text-align:left"|{{Cr-IPL|bang}} || {{ntsh|{{#expr:233+1/3}}}}'''232/2''' || 20.0 || 7 || 14 || 4 || 2 || style="text-align:left"|{{Cr-IPL|kings}} || style="text-align:left"|<small>'''[[Dharamsala, Himachal Pradesh|Dharamsala]]''' – [[HPCA Cricket Stadium]]</small> || <small>[http://www.espncricinfo.com/indian-premier-league-2013/engine/match/501260.html 17 May 2011]</small>
+|-
+| '''26''' || style="text-align:left"|{{Cr-IPL|bang}} || {{ntsh|{{#expr:198+1/2}}}}'''197/1''' || 20.0 || 1 || 6 || 18 || 1 || style="text-align:left"|{{Cr-IPL|raja}} || style="text-align:left"|<small>'''[[Jaipur]]''' – [[Sawai Mansingh Stadium]]</small> || <small>[http://www.espncricinfo.com/indian-premier-league-2013/engine/match/336023.html 17 May 2008]</small>
+|-
+| '''26''' || style="text-align:left"|{{Cr-IPL|mumb}} || {{ntsh|{{#expr:152+1/4}}}}'''151/3''' || 19.1 || 0 || 16 || 10 || 0 || style="text-align:left"|{{Cr-IPL|chen}} || style="text-align:left"|<small>'''[[Port Elizabeth]]''' – [[St George's Oval|St George's Park]]</small> || <small>[http://www.espncricinfo.com/indian-premier-league-2013/engine/match/392227.html 16 May 2009]</small>
+|-
+| '''24''' || style="text-align:left"|{{Cr-IPL|delhi}} || {{ntsh|{{#expr:166+1/9}}}}'''165/8''' || 20.0 || 6 || 6 || 11 || 1 || style="text-align:left"|{{Cr-IPL|mumb}} || style="text-align:left"|<small>'''[[Centurion, Gauteng|Centurion]]''' – [[SuperSport Park]]</small> || <small>[http://www.espncricinfo.com/indian-premier-league-2013/engine/match/392235.html 21 May 2009]</small>
+|}
+
+== References ==
+<references />
+{{Indian Premier League}}
+{{Use dmy dates|date=May 2011}}
+
+[[Category:Indian Premier League|Stats]]
+[[Category:Cricket records and statistics|*]]
+[[Category:Indian cricket lists|Indian Premier League cricket records]]
