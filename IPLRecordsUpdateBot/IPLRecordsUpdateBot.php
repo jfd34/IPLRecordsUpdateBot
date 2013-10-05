@@ -45,7 +45,7 @@ ini_set('max_execution_time', 2000);
 class IPLRecordsUpdateBot {
     
     /**
-     * The default limit (number of rows to include in the tables), unless overriden b a specific task.
+     * The default limit (number of rows to include in the tables), unless overriden by a specific task.
      * 0 means no limit (all table rows will be included).
      * 
      * @static
@@ -131,7 +131,7 @@ class IPLRecordsUpdateBot {
         
         file_put_contents(
             dirname(__DIR__) . '\\status\\error_log.txt',
-            "CODE:{$code}|MESSAGE:" .nl2br($message) . "|FILE:{$file}|LINE:{$line}\r\n",
+            "CODE:{$code}|MESSAGE:" . nl2br($message) . "|FILE:{$file}|LINE:{$line}\r\n",
             FILE_APPEND
         );
         
