@@ -53,7 +53,7 @@ document.getElementById('deselectallbutton').addEventListener('click', function(
 
 // Show the edit failed box if the backup file exists
 var backupFileRequest = new XMLHttpRequest();
-backupFileRequest.open('GET', 'edit_failed_backup.txt', false);
+backupFileRequest.open('GET', 'status/edit_failed_backup.txt', false);
 backupFileRequest.send();
 if ( backupFileRequest.status == 200 ) {
     setCSSProperty(document.getElementById('lasteditfailed'), 'display', 'block');
