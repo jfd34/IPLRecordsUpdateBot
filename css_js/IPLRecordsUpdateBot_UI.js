@@ -97,7 +97,7 @@ function submitForm() {
     setCSSProperty(statusBox, 'border-color', '#FFB700');
     setCSSProperty(statusBox, 'background-color', '#FFFFBB');
     statusBox.getElementsByTagName('td')[1].innerHTML = 'Updating... 0 of ' + statsToUpdate.length + ' completed (0 succeeded, 0 failed)';
-    statusBox.getElementsByTagName('td')[0].getElementsByTagName('img')[0].setAttribute('src', 'Images/Ambox_clock_yellow.svg');
+    statusBox.getElementsByTagName('td')[0].getElementsByTagName('img')[0].setAttribute('src', 'images/Ambox_clock_yellow.svg');
  
     // Remove any unselected checkboxes
     for ( var i = 0; i < checkboxes.length; i++ ) {
@@ -137,7 +137,7 @@ function submitForm() {
                 setCSSProperty(statusBox, 'border-color', '#FF0000');
                 setCSSProperty(statusBox, 'background-color', '#FF8585');
                 statusBox.getElementsByTagName('td')[1].innerHTML = 'Failed before update' + (updateXHR.responseText ? ('<br />Error: ' + updateXHR.responseText) : '');
-                statusBox.getElementsByTagName('td')[0].getElementsByTagName('img')[0].setAttribute('src', 'Images/Crystal_128_error.svg');
+                statusBox.getElementsByTagName('td')[0].getElementsByTagName('img')[0].setAttribute('src', 'images/Crystal_128_error.svg');
             }
             
             else if ( responseText.substr(0, 8) == '#success' ) {  // Edit successful
@@ -150,7 +150,7 @@ function submitForm() {
                 var statusMsg = statusBox.getElementsByTagName('td')[1];
                 statusMsg.innerHTML = statusMsg.innerHTML.replace(/Committing edit\.\.\./, 'Edit successful (<a href="https://en.wikipedia.org/w/index.php?diff=' + revisionIDMatch[2] + '&amp;oldid=' + revisionIDMatch[1] + '" target="_blank">diff</a>)');
  
-                statusBox.getElementsByTagName('td')[0].getElementsByTagName('img')[0].setAttribute('src', 'Images/Dialog-apply.svg');
+                statusBox.getElementsByTagName('td')[0].getElementsByTagName('img')[0].setAttribute('src', 'images/Dialog-apply.svg');
             }
             
             else if ( responseText.substr(0, 6) == '#error' ) {  // Edit failed
@@ -164,7 +164,7 @@ function submitForm() {
                 var statusMsg = statusBox.getElementsByTagName('td')[1];
                 statusMsg.innerHTML = statusMsg.innerHTML.replace(/Committing edit\.\.\./, 'Edit failed');
                 statusMsg.innerHTML += '<br />Error: ' + errorMessage;
-                statusBox.getElementsByTagName('td')[0].getElementsByTagName('img')[0].setAttribute('src', 'Images/Crystal_128_error.svg');
+                statusBox.getElementsByTagName('td')[0].getElementsByTagName('img')[0].setAttribute('src', 'images/Crystal_128_error.svg');
                 
             }
  
@@ -259,13 +259,13 @@ function submitForm() {
         function markStatAsSuccess(name) {
             var statRow = document.getElementById('stats__' + name);
             statRow.setAttribute('class', 'success');
-            statRow.getElementsByTagName('td')[1].innerHTML = '<img src="Images/Dialog-apply.svg" style="height: 15px; vertical-align: middle; padding-right: 5px" />Success';
+            statRow.getElementsByTagName('td')[1].innerHTML = '<img src="images/Dialog-apply.svg" style="height: 15px; vertical-align: middle; padding-right: 5px" />Success';
         }
         
         function markStatAsFailed(name) {
             var statRow = document.getElementById('stats__' + name);
             statRow.setAttribute('class', 'failed');
-            statRow.getElementsByTagName('td')[1].innerHTML = '<img src="Images/Crystal_128_error.svg" style="height: 15px; vertical-align: middle; padding-right: 5px" />Failed';
+            statRow.getElementsByTagName('td')[1].innerHTML = '<img src="images/Crystal_128_error.svg" style="height: 15px; vertical-align: middle; padding-right: 5px" />Failed';
         }
  
     }
@@ -322,7 +322,7 @@ function resumeEdit() {
  
     setCSSProperty(statusBox, 'border-color', '#FFB700');
     setCSSProperty(statusBox, 'background-color', '#FFFFBB');
-    statusBox.getElementsByTagName('td')[0].getElementsByTagName('img')[0].setAttribute('src', 'Images/Ambox_clock_yellow.svg');
+    statusBox.getElementsByTagName('td')[0].getElementsByTagName('img')[0].setAttribute('src', 'images/Ambox_clock_yellow.svg');
     statusBox.getElementsByTagName('td')[1].innerHTML = 'Resuming...';
  
     for ( var i = 0; i < document.getElementById('formbuttons').getElementsByTagName('input').length; i++ ) {
@@ -354,7 +354,7 @@ function resumeEdit() {
                 var statusMsg = statusBox.getElementsByTagName('td')[1];
                 statusMsg.innerHTML = statusMsg.innerHTML.replace(/Committing edit\.\.\./, 'Edit successful (<a href="https://en.wikipedia.org/w/index.php?diff=' + revisionIDMatch[2] + '&amp;oldid=' + revisionIDMatch[1] + '" target="_blank">diff</a>)');
  
-                statusBox.getElementsByTagName('td')[0].getElementsByTagName('img')[0].setAttribute('src', 'Images/Dialog-apply.svg');
+                statusBox.getElementsByTagName('td')[0].getElementsByTagName('img')[0].setAttribute('src', 'images/Dialog-apply.svg');
             }
             
             else if ( responseText.substr(0, 6) == '#error' ) {  // Edit failed
@@ -368,7 +368,7 @@ function resumeEdit() {
                 var statusMsg = statusBox.getElementsByTagName('td')[1];
                 statusMsg.innerHTML = statusMsg.innerHTML.replace(/Committing edit\.\.\./, 'Edit failed');
                 statusMsg.innerHTML += '<br />Error: ' + errorMessage;
-                statusBox.getElementsByTagName('td')[0].getElementsByTagName('img')[0].setAttribute('src', 'Images/Crystal_128_error.svg');
+                statusBox.getElementsByTagName('td')[0].getElementsByTagName('img')[0].setAttribute('src', 'images/Crystal_128_error.svg');
                 
             }
  
