@@ -353,7 +353,7 @@ function resumeEdit() {
                 setCSSProperty(statusBox, 'background-color', '#85FF85');
  
                 var statusMsg = statusBox.getElementsByTagName('td')[1];
-                statusMsg.innerHTML = statusMsg.innerHTML.replace(/Committing edit\.\.\./, 'Edit successful (<a href="https://en.wikipedia.org/w/index.php?diff=' + revisionIDMatch[2] + '&amp;oldid=' + revisionIDMatch[1] + '" target="_blank">diff</a>)');
+                statusMsg.innerHTML = statusMsg.innerHTML.replace(/Resuming\.\.\./, 'Edit successful (<a href="https://en.wikipedia.org/w/index.php?diff=' + revisionIDMatch[2] + '&amp;oldid=' + revisionIDMatch[1] + '" target="_blank">diff</a>)');
  
                 statusBox.getElementsByTagName('td')[0].getElementsByTagName('img')[0].setAttribute('src', 'images/Dialog-apply.svg');
             }
