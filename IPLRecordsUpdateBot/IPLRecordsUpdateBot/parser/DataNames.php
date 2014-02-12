@@ -235,7 +235,7 @@ $DataNameFloatPrecision = [
     DataNames::BATTING_SR                   => 2,
     DataNames::BOWLING_AVG                  => 2,
     DataNames::BOWLING_ECON                 => 2,
-    DataNames::AVG_DISMISSALS_INNINGS       => 2,
+    DataNames::AVG_DISMISSALS_INNINGS       => 3,
 ];
 
 

@@ -130,6 +130,7 @@ $CricinfoPlayerNameTranslationTable = [
     'AD Mascarenhas'              =>  [ 'team' => 'Kings XI Punjab', 'country' => 'England',              'first' => 'Dimitri',             'last' => 'Mascarenhas',        ],
     'R Sathish'                   =>  [ 'team' => 'Kings XI Punjab', 'country' => 'India',                'first' => 'Rajagopal',           'last' => 'Sathish',            ],
     'Azhar Mahmood'               =>  [ 'team' => 'Kings XI Punjab', 'country' => 'England',              'first' => 'Azhar',               'last' => 'Mahmood',            'sort' => 'Azhar Mahmood' ],
+    'AC Gilchrist'                =>  [ 'team' => 'Kings XI Punjab', 'country' => 'Australia',            'first' => 'Adam',                'last' => 'Gilchrist',          ],
     'N Saini'                     =>  [ 'team' => 'Kings XI Punjab', 'country' => 'India',                'first' => 'Nitin',               'last' => 'Saini',              ],
     'Harmeet Singh'               =>  [ 'team' => 'Kings XI Punjab', 'country' => 'India',                'first' => 'Harmeet',             'last' => 'Singh',              'page' => 'Harmeet Singh (cricketer born 1987)',  'sort' => 'Harmeet Singh' ],  # Here Singh is a middle name, not a surname - full name is "Harmeet Singh Bansal"
     'P Kumar'                     =>  [ 'team' => 'Kings XI Punjab', 'country' => 'India',                'first' => 'Praveen',             'last' => 'Kumar',              ],
@@ -172,6 +173,7 @@ $CricinfoPlayerNameTranslationTable = [
 
     'AC Blizzard'                 =>  [ 'team' => 'Mumbai Indians', 'country' => 'Australia',            'first' => 'Aiden',               'last' => 'Blizzard',           ],
     'AT Rayudu'                   =>  [ 'team' => 'Mumbai Indians', 'country' => 'India',                'first' => 'Ambati',              'last' => 'Rayudu',             ],
+    'SR Tendulkar'                =>  [ 'team' => 'Mumbai Indians', 'country' => 'India',                'first' => 'Sachin',              'last' => 'Tendulkar',          ],
     'RT Ponting'                  =>  [ 'team' => 'Mumbai Indians', 'country' => 'Australia',            'first' => 'Ricky',               'last' => 'Ponting',            ],
     'SA Yadav'                    =>  [ 'team' => 'Mumbai Indians', 'country' => 'India',                'first' => 'Suryakumar',          'last' => 'Yadav',              ],
     'RG Sharma'                   =>  [ 'team' => 'Mumbai Indians', 'country' => 'India',                'first' => 'Rohit',               'last' => 'Sharma',             ],
@@ -242,6 +244,7 @@ $CricinfoPlayerNameTranslationTable = [
     'AL Menaria'                  =>  [ 'team' => 'Rajasthan Royals', 'country' => 'India',                'first' => 'Ashok',               'last' => 'Menaria',            ],
     'AM Rahane'                   =>  [ 'team' => 'Rajasthan Royals', 'country' => 'India',                'first' => 'Ajinkya',             'last' => 'Rahane',             ],
     'BJ Hodge'                    =>  [ 'team' => 'Rajasthan Royals', 'country' => 'Australia',            'first' => 'Brad',                'last' => 'Hodge',              ],
+    'R Dravid'                    =>  [ 'team' => 'Rajasthan Royals', 'country' => 'India',                'first' => 'Rahul',               'last' => 'Dravid',             ],
     'Sachin Baby'                 =>  [ 'team' => 'Rajasthan Royals', 'country' => 'India',                'first' => 'Sachin',              'last' => 'Baby',               ],
     'OA Shah'                     =>  [ 'team' => 'Rajasthan Royals', 'country' => 'England',              'first' => 'Owais',               'last' => 'Shah',               ],
     'A Chandila'                  =>  [ 'team' => 'Rajasthan Royals', 'country' => 'India',                'first' => 'Ajit',                'last' => 'Chandila',           ],
@@ -249,7 +252,7 @@ $CricinfoPlayerNameTranslationTable = [
     'SR Watson'                   =>  [ 'team' => 'Rajasthan Royals', 'country' => 'Australia',            'first' => 'Shane',               'last' => 'Watson',             ],
     'JP Faulkner'                 =>  [ 'team' => 'Rajasthan Royals', 'country' => 'Australia',            'first' => 'James',               'last' => 'Faulkner',           'page' => 'James Faulkner (cricketer)' ],
     'STR Binny'                   =>  [ 'team' => 'Rajasthan Royals', 'country' => 'India',                'first' => 'Stuart',              'last' => 'Binny',              ],
-    'K Cooper'                    =>  [ 'team' => 'Rajasthan Royals', 'country' => 'West Indies',          'first' => 'Kevon',               'last' => 'Cooper',             ],
+    'KK Cooper'                   =>  [ 'team' => 'Rajasthan Royals', 'country' => 'West Indies',          'first' => 'Kevon',               'last' => 'Cooper',             ],
     'MKDJ Perera'                 =>  [ 'team' => 'Rajasthan Royals', 'country' => 'Sri Lanka',            'first' => 'Kusal',               'last' => 'Perera',             ],
     'SV Samson'                   =>  [ 'team' => 'Rajasthan Royals', 'country' => 'India',                'first' => 'Sanju',               'last' => 'Samson',             ],
     'SP Goswami'                  =>  [ 'team' => 'Rajasthan Royals', 'country' => 'India',                'first' => 'Shreevats',           'last' => 'Goswami',            ],
@@ -391,10 +394,7 @@ $CricinfoPlayerNameTranslationTable = [
     'M Kaif'                      =>  [ 'country' => 'India',                'first' => 'Mohammad',            'last' => 'Kaif',               ],
     'B Sumanth'                   =>  [ 'country' => 'India',                'first' => 'Bodapati',            'last' => 'Sumanth',            ],
     'VVS Laxman'                  =>  [ 'country' => 'India',                'first' => 'VVS',                 'last' => 'Laxman',             ],
-    'AC Gilchrist'                =>  [ 'country' => 'Australia',            'first' => 'Adam',                'last' => 'Gilchrist',          ],
-    'SR Tendulkar'                =>  [ 'country' => 'India',                'first' => 'Sachin',              'last' => 'Tendulkar',          ],
-    'R Dravid'                    =>  [ 'country' => 'India',                'first' => 'Rahul',               'last' => 'Dravid',             ],
-    
+ 
     #   ----------------  PLAYER NAME TRANSLATION TABLE ENDS HERE ----------------
 
 ];

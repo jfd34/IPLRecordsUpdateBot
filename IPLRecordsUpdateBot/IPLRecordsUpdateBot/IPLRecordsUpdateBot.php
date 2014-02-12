@@ -514,27 +514,32 @@ class IPLRecordsUpdateBot {
         # Store the text to be submitted to a backup file, in case the edit fails.
         file_put_contents( dirname(__DIR__) . '\\status\\edit_failed_backup.txt', $PageText );
         
-        $editPageAPIResult = APIInterface::$instance->query(
-            'POST',
-            [],
-            [
-                'action' => 'edit',
-                'title' => $this->_pageTitle,
-                'summary' => $editSummary,
-                'text' => $PageText,
-                'basetimestamp' => $this->_pageLastEditTS,
-                'nocreate' => '1',
-                'md5' => md5($PageText),
-                'token' => $this->_editToken,
-            ]
-        );
-        
-        if ( $editPageAPIResult['edit']['result'] == 'Success' ) {
-            unlink(dirname(__DIR__) . '\\status\\edit_failed_backup.txt');  # Delete the backup text file if the edit is sucessful.
-            die( "#success|{$editPageAPIResult['edit']['oldrevid']}-{$editPageAPIResult['edit']['newrevid']}" );
+        try {
+            $editPageAPIResult = APIInterface::$instance->query(
+                'POST',
+                [],
+                [
+                    'action' => 'edit',
+                    'title' => $this->_pageTitle,
+                    'summary' => $editSummary,
+                    'text' => $PageText,
+                    'basetimestamp' => $this->_pageLastEditTS,
+                    'nocreate' => '1',
+                    'md5' => md5($PageText),
+                    'token' => $this->_editToken,
+                ]
+            );
+            
+            if ( $editPageAPIResult['edit']['result'] == 'Success' ) {
+                unlink(dirname(__DIR__) . '\\status\\edit_failed_backup.txt');  # Delete the backup text file if the edit is sucessful.
+                die( "#success|{$editPageAPIResult['edit']['oldrevid']}-{$editPageAPIResult['edit']['newrevid']}" );
+            }
+            else {
+                $this->_triggerError( 'Edit failed.', true );
+            }
         }
-        else {
-            $this->_triggerError( 'Edit failed.', true );
+        catch ( APIInterfaceException $e ) {
+            $this->_triggerError( 'Error occured while editing: ' . $e->getMessage(), true );
         }
         
     }
@@ -548,7 +553,6 @@ class IPLRecordsUpdateBot {
      * error level, if set, will be triggered.
      */
     private function _triggerError($message, $fatal = false) {
-        
         if ( $fatal ) {
             die( "#error|{$message}" );
         }

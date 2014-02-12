@@ -69,7 +69,7 @@ namespace DataTypes {
                     break;
                     
                 default :
-                    throw new UpdateTaskUpdateTaskException("Property {$name} does not exist in class " . __CLASS__ . " or is read-only.");
+                    throw new \UpdateTaskException("Property {$name} does not exist in class " . __CLASS__ . " or is read-only.");
             }
             
         }
@@ -468,13 +468,13 @@ namespace DataTypes {
             global $CricinfoPlayerNameTranslationTable;
             
             if ( ! is_string($value) && ! is_int($value) ) {
-                throw new UpdateTaskException("Player name must be a string or an integer.");
+                throw new \UpdateTaskException("Player name must be a string or an integer.");
             }
             
             $this->_value = $value;
             
             $tableEntry = @$CricinfoPlayerNameTranslationTable[$value];
-            if ( ! $tableEntry ) throw new UpdateTaskException("Player not found in transformation table: {$value}");
+            if ( ! $tableEntry ) throw new \UpdateTaskException("Player not found in transformation table: {$value}");
             
             $this->team = isset($tableEntry['team']) ? $tableEntry['team'] : null;
             $this->country = $tableEntry['country'];
@@ -553,7 +553,7 @@ namespace DataTypes {
             global $CricinfoTeamNameTranslationTable;
             
             $tableEntry = @$CricinfoTeamNameTranslationTable[$value];
-            if ( ! $tableEntry ) throw new UpdateTaskException("Team not found in transformation table: {$value}");
+            if ( ! $tableEntry ) throw new \UpdateTaskException("Team not found in transformation table: {$value}");
             
             $this->name = $tableEntry['name'];
             $this->crIPLAlias = $tableEntry['alias'];
@@ -622,7 +622,7 @@ namespace DataTypes {
             $this->_uid = (int) $value;
             
             $tableEntry = @$CricinfoGroundNameTranslationTable[$this->_uid];
-            if ( ! $tableEntry ) throw new UpdateTaskException("Ground not found in transformation table: {$value}");
+            if ( ! $tableEntry ) throw new \UpdateTaskException("Ground not found in transformation table: {$value}");
             
             $this->name = $tableEntry['name'];
             $this->location = $tableEntry['location'];
